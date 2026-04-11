@@ -123,7 +123,7 @@ Summoners are rare, Bureau-monitored, and feared. When one goes missing, it mean
 - [ ] Protagonist Reid's specific backstory / what crime got them stripped of their license?
 - [ ] Who is the missing Summoner — what did she find, and what has she become?
 - [ ] How does the deep grid relate to the entity — is the entity partially digital, or does it merely bleed into digital space?
-- [ ] Who are the party members, what are their archetypes, and what does each one's Dread look like at its worst?
+- [ ] Who are the party members, what are their archetypes, and what does each breaking point look like at its worst?
 - [ ] What is the villain's name, ideology, and their relationship to the entity?
 - [ ] What is the city's name and its geography — the districts, the underworld, the geometry that doesn't add up?
 - [ ] What tone does the music take — jazz noir? orchestral dread? ambient industrial? synthwave with something wrong underneath?
