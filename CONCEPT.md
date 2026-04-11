@@ -106,6 +106,58 @@ Encounter density escalates by depth:
 
 ---
 
+### Opening Sequence — Beat Map
+
+The game begins in the Heights before Crane makes contact. Five beats, one encounter, one crack in the city's lie.
+
+**BEAT 1 — ROOFTOP, 3AM**
+Reid on surveillance. The Heights below. Internal monologue: this is the job now. Locate, confirm, collect the fee. He's done this a hundred times in the same streets he used to patrol with a badge. His target — a licensed practitioner who disappeared from a Heights address — moves below. Enters an office building off the Promenade. Reid follows.
+
+*[Investigation Mode tutorial: exterior navigation, building entry.]*
+
+**BEAT 2 — THE BUILDING**
+The lobby's ley terminal is active when it shouldn't be. Reid doesn't have language for why that's wrong yet. He finds the practitioner — not running, hiding. Scared. Before Reid can close the job, she tells him her licensed sigil has been draining her in her sleep. She stopped paying her creditor because she stopped being able to work. She didn't know how to explain it to anyone. She still doesn't.
+
+*Reid: "When did it start?"*
+*Practitioner: "After I tried to stop using it."*
+
+*[NPC dialogue tutorial: first crack in the mythology — a feeling, not a revelation.]*
+
+**BEAT 3 — THE FIXER**
+Back room. Bureau-registered sigils with the return channel cut out — jailbroken. A woman pulling them from a concealed cache. Precise, professional, no wasted motion. She clocks Reid. He clocks her. Two professionals not on each other's list.
+
+Then: private security arrives. Bureau-adjacent. Not here for noise complaints.
+
+*[Hot Zone activates.]*
+
+**BEAT 4 — THE FIGHT**
+They hold the building together by necessity, not preference. She fights with something that isn't Bureau-trained. He fights with twenty years of Bureau-trained, filed under *former*. Two or three encounters, escalating. The security captain uses a registered offensive sigil — the first time the player sees what official power costs and who pays for it.
+
+During the fight: the lobby's ley terminal pulses once — a long, wrong pulse — and goes dark. The fixer notices. Says nothing.
+
+*[ATB combat tutorial: two-character forced party.]*
+
+**BEAT 5 — THE EXIT**
+She takes the jailbroken sigils. Reid confirms the practitioner to his client — case closed, fee incoming. Before the fixer leaves, she catches the practitioner's sigil description. She and Reid exchange one look — two people who've heard the same thing land differently than the person saying it intended.
+
+She's gone before he can ask. No name. No frequency. Just the sound of a panel sliding back into place.
+
+*Reid, to the practitioner: "What did it feel like exactly?"*
+*Practitioner: "Like something was taking notes."*
+
+**BEAT 6 — THE NOCTURNE**
+Usual table. The drink tastes like the building felt. The ley terminal going dark replays once. He doesn't know where to file it.
+
+His comm activates. Old Bureau routing. Encrypted.
+
+**Crane:** *"Reid. It's Crane. She's gone. I need you."*
+
+---
+
+**Client for the opening case:** A Heights merchant owed fees by the practitioner — locate and confirm, nothing more. Reid took it because it paid.
+
+---
+
 ### Final Fantasy DNA (FF4 / FF5 / FF6 / FF7)
 - Fixed party members with defined archetypes — their role IS their identity; each broken in a specific way (FF4 / FF6 ensemble weight)
 - The signature **tonal shift**: starts as a personal detective story, ends as something that cannot be fully described
@@ -309,10 +361,34 @@ What Vesper had found at that point — the thing that warranted silencing — c
 
 ---
 
+## Party Members
+
+### Mara — Grey-Market Fixer
+
+**Handle:** Mara. Not her real name. She's had it long enough that she doesn't remember when she stopped thinking of it as a cover. Real name unknown.
+
+**First encounter:** Beat 3 of the opening sequence — already in the building, already working, already done before Reid knows who she is. She takes the jailbroken sigils and ghosts clean. No name. No thread. Just the sound of a panel sliding back into place.
+
+**What she is:** Moves jailbroken sigils — Bureau-registered hardware with the ley return channel cut — to people who need to stop being metered. Off-grid from birth. No license, no file, no record. The Bureau has nothing on her because it has nothing *of* her.
+
+**Why she's stronger than licensed practitioners:** She was never metered. Her psychic output has never been split — the Bureau's harvest system never got installed. She's been operating at full output her whole life without knowing the gap exists. She doesn't have a theory about it. She's never needed one. When the revelation comes, she'll understand the system she's been fighting without knowing what it was.
+
+**Why she's still in NOX:** There's a kid. Not a practitioner, not in the trade — someone she found in the wrong place and didn't walk past. She doesn't do charity. Except for this one. She hasn't examined why. She's been staying for eighteen months waiting for the situation to resolve.
+
+**Her code:** She screens every client. Not about the sigil — about what they'll do with the freed output. She asks. She listens. She's been wrong twice. She carries that.
+
+**How she enters the investigation:** The Vesper case touches the kid. She didn't know the kid was connected. Neither did the kid. Now both of them are. She joins because she can't protect the kid alone. She hates that.
+
+**What she doesn't know:** Anything about WARDEN, the entity, or the ley architecture's actual function. She comes into the main mystery clean — outside perspective. Asks the questions an outsider would ask. When she says she doesn't know what she walked into, she says so.
+
+**Arc and breaking point:** TBD
+
+---
+
 ## Immediate Questions to Develop
 
 - [ ] Was his psychic output being metered through his Bureau-issued equipment — does he have any suspicion of this, or is the revelation entirely new?
-- [ ] Who are the party members and what are their archetypes? What is each person's relationship to the revelation that their power was always their own — and what does their breaking point look like at its worst?
+- [ ] Who are the remaining party members and what are their archetypes? What is each person's relationship to the revelation that their power was always their own — and what does their breaking point look like at its worst? *(Mara — first party member — established above.)*
 - [ ] The villain: name, rank within the Bureau, and how far they've climbed. Did they discover what the machine does and choose it, or were they already a believer before they climbed high enough to see? What do they want that the entity can give them?
 - [ ] District structure: where is the Meridian in relation to the rest — is it a place you go to, a district, an underworld layer? What does wrong geometry look like street-level vs. deep grid?
 - [ ] Cyberware and psychic output: can implants suppress or redirect output? Is this why some people get Bureau-issued cyberware as part of their license — involuntary metering built into the hardware? Does jailbreaking cyberware have the same politics as jailbreaking Sigils?
