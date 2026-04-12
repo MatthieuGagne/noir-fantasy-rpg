@@ -43,6 +43,34 @@ Encounter density escalates by depth:
 
 ---
 
+## Opening Mission — Enemy Encounters
+
+Three waves, escalating. Human enemies only. No PP damage. Pure HP-combat tutorial.
+
+| Wave | Enemies | Mechanical Purpose |
+|------|---------|-------------------|
+| 1 | Guard (STR-focus) + Guard (SPD-focus) | ATB timing, turn order, Reid vs. Mara output |
+| 2 | Guard × 2 + Coordinator | Priority targeting — Coordinator buffs allies (ATB boost or DEF up); Mara's Disorientation has a clear use case |
+| 3 | Captain + Guard | Boss-pattern reading, Sigil moment, recoil |
+
+### Wave 2 — Coordinator
+Hangs back, low DEF, applies ally buffs on a slow timer. Nameless, no dialogue — a mechanical priority target. The player learns to kill the softest enemy first.
+
+### Wave 3 — Captain
+Bureau-adjacent private security, licensed. The defining mechanic of the encounter is their **registered offensive sigil**.
+
+**Sigil behavior:**
+- The captain's ATB fills visibly slower than normal — the Sigil is heavy to carry
+- They open with physical attacks; the Sigil is held until ~50% HP or if the fight drags
+- When fired: significant PSY damage to the full party (or concentrated on Reid)
+- After firing: captain takes ~15–20% of their max HP as recoil damage, ATB gauge resets with a penalty — visibly slow on the next action
+
+**Narrative function:** The first time the player sees what official Bureau power costs — and who pays for it. Both sides pay. The player feels the weight of sanctioned power; the captain is visibly spent by it.
+
+**Wave 3 guard:** Same profile as Wave 1 (STR-focus). A resource drain, nothing more. The captain's charging ATB bar is the only tension that matters.
+
+---
+
 ## Core Stats
 
 | Stat | What it is |
