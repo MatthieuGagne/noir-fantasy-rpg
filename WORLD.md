@@ -52,6 +52,58 @@ The villain is not one of them. He found them. He wants what they have. He does 
 
 ---
 
+## The Bureau
+
+The License Bureau is the city's regulatory face — the institution that licenses practitioners, assigns Grades, administers the ley architecture as civic infrastructure, and enforces compliance. Most of the city experiences the Bureau as paperwork: forms, fees, annual assessments, the license that has to be renewed before you can legally work. That experience is accurate. It is not complete.
+
+### The Academies
+
+Bureau Academies are good schools. Better facilities than anything in the Sprawl. Parents in the Heights see enrollment as an honor; parents in the Sprawl see it as a lifeline. The Bureau funds them because the Bureau has resources, and because the children who come through them become Bureau practitioners — shaped by Bureau ideology before they're old enough to examine it.
+
+The curriculum is professional formation, not indoctrination. Ability is a gift; gifts carry obligation; the Bureau is the steward of that obligation. The ley architecture is civic infrastructure. The License is what separates a practitioner from a liability. Nobody teaches a lie, exactly. They teach an interpretation that happens to serve the harvest. The teachers believe it.
+
+A practitioner who came up through the Academy doesn't experience the Bureau as external constraint. It's identity.
+
+### The Grade System
+
+**Resonance Index** — how efficiently a practitioner's output interfaces with the ley architecture — is measured at the Academy and again at licensing. The Bureau presents this as a measure of ability strength and precision. Both descriptions are accurate. Neither is complete. High Resonance Index means more powerful practitioner. It also means more harvestable output. The Bureau conflates these deliberately, and most practitioners never separate them.
+
+Index is expressed as a **Grade**, I through V. The Grade is public — on the license, in employment contracts, in every sigil sale. Some practitioners put it in their professional signatures.
+
+| Grade | Who | Bureau Relationship |
+|-------|-----|---------------------|
+| **I** | Detectable output, below threshold for active practice. Most people with any measurable ability. | Register and report changes. No active obligations. |
+| **II** | Standard practitioners. The working licensed tier — Promenade shops, corporate mages, street professionals. | Annual assessment. Standard sigil assignment. |
+| **III** | Elevated output. Likely Academy-trained. More complex techniques, more powerful sigils. | Quarterly assessment. Bureau career guidance. The Bureau develops opinions about your employer. |
+| **IV** | High-output. Rare. Best Academy placement, most attentive instructors, clearest path to Bureau careers. | Mandatory Bureau reporting. Non-Bureau employment requires approval. The framing is prestige. The function is control. |
+| **V** | Exceptional. The Bureau doesn't publish how many exist. | Classified. The public record stops here. |
+
+Higher Grade is genuinely prestigious. Grade IVs earn more, move through the Heights with a different ease. The trap is elegant: the practitioners the Bureau harvests most efficiently are also the ones who identify most deeply with the Bureau. They don't resent the system. They *are* the system.
+
+### The Assessment Division
+
+The Bureau's enforcement arm within the practitioner community. Official designation: **Bureau Assessment Division**. Street name: **the Grays** — they wear gray instead of Bureau blue, marking their separate warrant authority.
+
+Regular Bureau enforcement handles general law. The Grays handle practitioners specifically: unlicensed operators, Grade fraud, output irregularities, Grade V situations. They can enter without standard warrants if they can document output irregularity. The legal threshold for that documentation is low.
+
+The Grays recruit from Grade III and above Academy graduates. Their culture is the meritocracy of the Grade system made flesh — the best-formed, most thoroughly shaped practitioners in the city, doing the work they genuinely believe needs doing. They are not wrong that unregistered high-output practitioners create real instability. The Bureau built real dangers into the architecture to justify real enforcement.
+
+Regular enforcers are sometimes seconded to Assessment Division operations when numbers are needed. That was the arrangement the night the Bureau sent a team for Vesper.
+
+### Output Calibration
+
+The Bureau's intervention for non-compliant practitioners. Official term: **Output Calibration Procedure**. Street term: *calibrated*.
+
+A calibration sigil is deep-bonded — anchored below the interface layer the practitioner can reach, integrated directly into their ley architecture connection. It routes substantially all output through the ley architecture, leaving only enough residual for the practitioner to function as normal. Normal meaning: no abilities. No output the Bureau hasn't already taken.
+
+The Bureau has a diagnostic code for it. There is a consent form. There is a follow-up schedule. It is presented as a medical procedure.
+
+The lie embedded in the framing: if your power flows from the ley architecture in the first place — the Bureau's foundational myth — then routing it back there is just restoring balance. Without that myth, calibration is reaching into someone and taking what was always theirs.
+
+Practitioners who've been calibrated describe it the same way: *like a quiet. Not pain. Not absence. More like something that was always moving — you never noticed it until it stopped.* The output doesn't disappear. It's still there, still flowing. You just can't reach it. After a while most people stop feeling it move through them. The ones who don't are the ones who end up in the Meridian looking for something the black market may not actually have.
+
+---
+
 ## The Heights
 
 The first district. The face NOX puts on.
@@ -71,6 +123,7 @@ His disgrace didn't erase him. It complicated him. Some people still grab his ar
 ### Key Locations
 
 - **Bureau HQ** — the cathedral. Central. Unavoidable. The building the whole district orbits.
+- **The Bureau Academy** — adjacent to HQ. Clean lines, generous facilities, a campus that looks like an opportunity. The Heights' Academy is the flagship. Detection pings from the district's dense terminal network mean it has a steady intake. Practitioners who came up here don't think of themselves as Bureau-shaped. They think of themselves as good.
 - **The Promenade** — the Heights' licensed commerce plaza. Open-air storefronts, Bureau-certified vendors, neon on wet stone. Everything is above board. Which means everything is metered.
 - **The Exchange Floor** — official ley architecture terminal hub, presented as a civic energy exchange. Stylish. Public. The most efficient harvest node in the city, hiding as a transit hub.
 - **Reid's old precinct** — still operating. His replacement sits at his old desk. He's walked past the door twice since his disgrace. Hasn't gone in.
@@ -84,7 +137,7 @@ The Heights' official commerce district. Surveilled, licensed, Bureau-compliant.
 | Inn | **The Nocturne** | Boutique hotel. Black marble, filtered light, a bar that stays open as long as the city does. The name treats perpetual night as aesthetic rather than engineered. Reid used to drink here on long cases. |
 | Weapons & Cyberware | **Halloway Arms & Augmentations** | Steel on the left counter, chrome on the right. Ballistic weapons, blades, offensive implants, reflex boosters. Bureau compliance certificate framed on the wall like a diploma. Buying here puts your name in two registries. |
 | Armor & Protective Gear | **Carapace** | Subdermal plating, ballistic weave, neural shielding, licensed defensive cyberware. Clean showroom. The fitter doesn't ask what you're expecting to need it for. |
-| Sigils | **Aether & Co.** | Upscale sigil boutique. Branded packaging, premium amplification, a practitioner on staff. The Heights buys the expensive ones — better output, sleeker design, higher harvest rates the Bureau doesn't print on the label. |
+| Sigils | **Aether & Co.** | Upscale sigil boutique. Branded packaging, premium amplification, a Grade III practitioner on staff for consultations. Sigils here are tiered by Grade — walk in with a II, you're sold a II. Walk in with a IV license, the good cases come out from behind the counter. Better output, sleeker design, higher harvest rates the Bureau doesn't print on the label. |
 | Items | **The Dispensary** | Medical supplies, stimulants, psychic stabilizers, utility consumables. Megacorp pharmacy chain. The clerk is helpful and does not know what half of what she sells is actually for. |
 
 ---

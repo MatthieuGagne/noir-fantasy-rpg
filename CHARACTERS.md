@@ -6,7 +6,11 @@
 
 **Bureau status:** Disgraced — stripped
 
+**Grade:** Non-practitioner (Fighter). No Resonance Index on file.
+
 Former Bureau enforcer turned unlicensed private investigator. Born, trained, and disgraced in the Heights. Knows which noodle stand opens at 3am and which Bureau clerk takes bribes in the form of good whisky. Two decades of service filed under *former*.
+
+He was never a practitioner — no Grade, no sigil, no Academy. He worked beside Grade II and III colleagues for twenty years and knows exactly what the system looks like from outside it. He also knows the Grays from that outside: seconded to Assessment Division operations occasionally, enough to know their protocols, their culture, the chain of command that doesn't appear on any regular Bureau org chart. The night he let Vesper walk, the operation was theirs. He was muscle on loan. That distinction is the only reason he's still breathing.
 
 ### Reid's Disgrace
 
@@ -50,13 +54,15 @@ The gap between knowing and not looking — that's where the case lives.
 
 **Bureau status:** Never registered
 
+**Grade:** None. Bureau instruments return an error before a number.
+
 **Handle:** Mara. Not her real name. She's had it long enough that she doesn't remember when she stopped thinking of it as a cover. Real name unknown.
 
 **First encounter:** Beat 3 of the opening sequence — already in the building, already working, already done before Reid knows who she is. She takes the jailbroken sigils and ghosts clean. No name. No thread. Just the sound of a panel sliding back into place.
 
 **What she is:** Moves jailbroken sigils — Bureau-registered hardware with the ley return channel cut — to people who need to stop being metered. Off-grid from birth. No license, no file, no record. The Bureau has nothing on her because it has nothing *of* her.
 
-**Why she's stronger than licensed practitioners:** She was never metered. Her psychic output has never been split — the Bureau's harvest system never got installed. She's been operating at full output her whole life without knowing the gap exists. She doesn't have a theory about it. She's never needed one. When the revelation comes, she'll understand the system she's been fighting without knowing what it was.
+**Why she's stronger than licensed practitioners:** She was never metered. Her psychic output has never been split — the Bureau's harvest system never got installed. She has no Grade because no ley terminal ever got a clean read on her; she was never near one long enough, never enrolled, never processed. She's been operating at full output her whole life without knowing the gap exists. She doesn't have a theory about it. She's never needed one. When the revelation comes, she'll understand the system she's been fighting without knowing what it was.
 
 **Why she's still in NOX:** There's a kid. Not a practitioner, not in the trade — someone she found in the wrong place and didn't walk past. She doesn't do charity. Except for this one. She hasn't examined why. She's been staying for eighteen months waiting for the situation to resolve.
 
@@ -74,6 +80,8 @@ The gap between knowing and not looking — that's where the case lives.
 
 ### What They Are
 Summoners are people *selected* by displaced beings — exiles unmoored from wherever they came from, existing in the gap between registers. A future Summoner doesn't seek out their being; the being finds them first. Intrusions begin: a presence at the edge of vision, dreams with wrong geometry, a voice at a frequency nobody else can hear. The Bureau runs a dragnet to intercept these people before unauthorized contact is made.
+
+Summoners test anomalously on Resonance Index assessments — their output signature doubles in a way the standard instrument doesn't have a clean category for. The Bureau's official position is that Summoner output is "amplified through the bonded being," fitting their mythology about externally-channeled magic. The unofficial position, held by anyone who's done the math, is that the numbers don't add up. Summoners often rate at or near Grade V — or off the scale entirely. The Bureau handles this carefully.
 
 ### The License
 A licensed Summoner is a monitored freelancer. They register their beings, report their summons, submit to audits. The Bureau doesn't control who they anchor. It controls when and how often. The leverage the Bureau holds is not over the Summoner — it is over the being. Revoke the license and the anchor breaks. The exile goes back to nowhere. That is why Summoners comply. Not for themselves. For the thing they are keeping alive.
@@ -119,15 +127,15 @@ Ten-character ensemble. Each character has a different relationship to the Burea
 
 ### Class Notes
 
-**Black Mage** — starts licensed, arc leads to jailbroken. The moment they swap Sigils is the moment they defect. Their Bureau limit break is proper, sanctioned technique. Their jailbroken limit break is who they actually are.
+**Black Mage** — Grade III or IV. Academy-trained; career structured around their rating. Starts licensed, arc leads to jailbroken. The moment they swap Sigils is the moment they defect — not just from the system, but from the thing that told them who they were. They know what happens to Grade III and IV practitioners who step out of line. They've known someone who got calibrated. The swap is preemptive self-preservation that becomes ideology in the doing. Their Bureau limit break is proper, sanctioned technique. Their jailbroken limit break is who they actually are.
 
-**Bard** — psychic output expresses through performance. The Bureau never thought to meter that channel. Abilities affect the whole battlefield simultaneously — ally buffs and enemy debuffs at once. Anti-establishment by nature.
+**Bard** — psychic output expresses through performance. The Bureau never thought to meter that channel, which means no Grade on file — the ley terminals register something but the assessment protocol doesn't know what to do with it. Anti-establishment by structural accident as much as intent. Abilities affect the whole battlefield simultaneously — ally buffs and enemy debuffs at once.
 
-**Martial Artist** — no Sigils, no cyberware, on principle. Output loops inward as physical enhancement. Nothing to scan, nothing to meter. The Bureau has no category for them.
+**Martial Artist** — no Sigils, no cyberware, on principle. Output loops inward as physical enhancement. The Bureau's assessment protocol requires outward resonance to function — their reading comes back zero, filed as "non-practitioner," forgotten. They counted on this. Nothing to scan, nothing to meter, no Grade on file.
 
-**Occultist** — entity-touched. Learns abilities from entity and entity-adjacent attacks only. Starts with almost nothing. Becomes the most terrifying fighter in the party by Act 3. Every ability is something that was done to them first. Bureau status: classified. There's a file. They'd rather not discuss what's in it.
+**Occultist** — entity-touched. Learns abilities from entity and entity-adjacent attacks only. Starts with almost nothing. Becomes the most terrifying fighter in the party by Act 3. Every ability is something that was done to them first. Bureau status: classified. There's a file. What's in it: an Output Calibration that didn't take the way it was supposed to. The Bureau's documentation has no category for what happened instead. They'd rather not discuss any of it.
 
-**Paladin** — Fighter/healer hybrid. Not corrupt — loyal to something that was always a machine. The most heartbreaking arc because they're not wrong to believe in justice. They just put it in the wrong institution.
+**Paladin** — Grade II or solid III. Fighter/healer hybrid. Academy-trained; the institution worked for them at the level they were given access to. Not corrupt — loyal to something that was always a machine. Believes in the Grade system the way people believe in things they've organized their entire identity around. The most heartbreaking arc because they're not wrong to believe in justice. They just put it in the wrong institution.
 
 **Summoner** — unique mechanic: shares turns with their being. Every turn can be split between Summoner and being. The being acts on borrowed output. Unlicensed — operating through the Meridian.
 

@@ -71,7 +71,7 @@ Magic and technology coexist. Both are real. Both are controlled. Both are lies.
 
 - **The city runs on two power grids**: the digital infrastructure of the megacorps, and the ley architecture that nobody talks about officially
 - Cyberware, bioware, and neural implants sit alongside mages, Summoners, and street shamans — sometimes in the same body
-- The License Bureau is a megacorp with regulatory authority: it controls who can legally use magic *and* who can legally carry cyberware above a certain grade
+- The License Bureau is a megacorp with regulatory authority: it controls who can legally use magic *and* who can legally carry cyberware above a certain grade. It detects practitioners young through the city's passive ley terminal network, recruits them into Bureau Academies, and assigns **Grades I–V** tracking output strength. Higher Grades receive better resources and tighter control. The Bureau's elite enforcement arm — the **Assessment Division**, street name *the Grays* — handles unlicensed practitioners, Grade fraud, and output irregularities, operating under a lower warrant threshold than regular law enforcement. Practitioners who refuse compliance face **Output Calibration**: a deep-bonded sigil that routes their output permanently through the ley architecture, leaving them functional but empty. The Bureau calls it a medical procedure. It has a diagnostic code and a consent form.
 - Black markets exist for both: unlicensed enchantments and grey-market implants move through the same underground channels
 - Hackers and mages sometimes can't tell each other apart in the deep grid — both are reaching into places that weren't designed for human minds
 - **Magic is not what the Bureau says it is.** It is not drawn from ancient forces or ley lines. It is latent human psychic ability — internal, innate, always the practitioner's own. The entire official mythology of magic is a constructed lie. The entity needed people to believe their power was external and conditional, because people who know their power is theirs tend to keep it.
@@ -105,6 +105,8 @@ Magic and technology coexist. Both are real. Both are controlled. Both are lies.
 **Games:** Final Fantasy IV, V, VI, VII — Vagrant Story, Disco Elysium, Death Stranding, Metal Gear Solid 2 & 3, Xenogears, Planescape: Torment, Bloodborne, Eternal Darkness, Shadowrun Returns
 
 **Films:** Chinatown (1974), Blade Runner, Dark City, L.A. Confidential, The Thing, In the Mouth of Madness, Ghost in the Shell, Angel Heart
+
+**Television:** Babylon 5 (the Psi-Corps as institutional model for the Bureau — the total institution, the Grade system, the enforcement arm, the true believers)
 
 **Literature:** Raymond Chandler, Dashiell Hammett, H.P. Lovecraft, Thomas Ligotti, William Gibson, Paul Auster (meta-noir), Haruki Murakami, Jeff VanderMeer (*Annihilation*)
 

@@ -57,7 +57,7 @@ Three waves, escalating. Human enemies only. No PP damage. Pure HP-combat tutori
 Hangs back, low DEF, applies ally buffs on a slow timer. Nameless, no dialogue — a mechanical priority target. The player learns to kill the softest enemy first.
 
 ### Wave 3 — Captain
-Bureau-adjacent private security, licensed. The defining mechanic of the encounter is their **registered offensive sigil**.
+Bureau-adjacent private security, licensed. Grade II — high enough to carry an offensive sigil legally, low enough that it costs them visibly to use it. The defining mechanic of the encounter is that **registered offensive sigil**.
 
 **Sigil behavior:**
 - The captain's ATB fills visibly slower than normal — the Sigil is heavy to carry
@@ -89,8 +89,8 @@ Bureau-adjacent private security, licensed. The defining mechanic of the encount
 
 Both types provide stat bonuses. The meaningful difference is the **limit break**:
 
-- **Bureau Sigils** — licensed limit break. Controlled, sanctioned, exactly what the Bureau trained you to do. Ceiling is capped.
-- **Jailbroken Sigils** — true limit break. Full unmetered output. Reflects who the character actually is without the system skimming off the top.
+- **Bureau Sigils** — licensed limit break. Controlled, sanctioned, exactly what the Bureau trained you to do. Ceiling is capped. Tiered by Grade — the sigil you're sold matches your registered Grade. Grade IV hardware exists. You need the license to buy it legally.
+- **Jailbroken Sigils** — true limit break. Full unmetered output. Reflects who the character actually is without the system skimming off the top. Possessing one is an Assessment Division matter.
 
 The same character has two different limit breaks depending on what they're wearing. Equipping a jailbroken Sigil is a statement.
 

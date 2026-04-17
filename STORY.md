@@ -7,7 +7,7 @@ The protagonist — **Reid**, a disgraced enforcer turned unlicensed private inv
 Summoners are rare, Bureau-monitored, and feared. When one goes missing, it means someone powerful wanted her gone. The investigation pulls the protagonist into:
 
 - A black market for illegal licenses and grey-market cyberware (people trying to escape their Bureau-assigned class)
-- A conspiracy within the Bureau's enforcement arm that the protagonist was once part of
+- A conspiracy within the Bureau's enforcement arm that the protagonist was once part of — specifically, the Assessment Division (the Grays), the Bureau's practitioner-focused enforcement unit that operates under separate warrant authority and answers to a chain of command Reid has never had full sight of
 - The missing Summoner didn't disappear. She *went*. Deliberately. Because she found something and couldn't look away.
 - The city is built on something it shouldn't be — not just architecturally, but *ontologically*
 - The License Bureau has known about what's beneath the city for decades. Its true purpose was never to control people. It was designed to *harvest* them — to meter psychic output, direct it through the ley architecture, and deliver it to the entity. Most Bureau employees don't know this. They just inherited the system.
