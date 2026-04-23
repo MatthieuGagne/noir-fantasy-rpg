@@ -102,13 +102,13 @@ Magic and technology coexist. Both are real. Both are controlled. Both are lies.
 
 ## Influences & Reference Points
 
-**Games:** Final Fantasy IV, V, VI, VII — Vagrant Story, Disco Elysium, Death Stranding, Metal Gear Solid 2 & 3, Xenogears, Planescape: Torment, Bloodborne, Eternal Darkness, Shadowrun Returns
+**Games:** Final Fantasy IV, V, VI, VII — Vagrant Story, Disco Elysium, Death Stranding, Metal Gear Solid 2 & 3, Xenogears, Planescape: Torment, Bloodborne, Eternal Darkness, Shadowrun Returns, Control (brutalist government building as cosmic horror; the Board communicating through forms; wrong geometry as institutional fact), Persona 5 (lesser influence — precise visual codes per character tied to psychological wound)
 
-**Films:** Chinatown (1974), Blade Runner, Dark City, L.A. Confidential, The Thing, In the Mouth of Madness, Ghost in the Shell, Angel Heart
+**Films:** Chinatown (1974), Blade Runner, Dark City, L.A. Confidential, The Thing, In the Mouth of Madness, Ghost in the Shell, Angel Heart, Brazil (1985) (bureaucracy as the mechanism of oppression; the mundane evil of correct procedure), Akira (psychic power the state experiments on; the city as living/dying organism; class and the streets vs. the elite)
 
-**Television:** Babylon 5 (the Psi-Corps as institutional model for the Bureau — the total institution, the Grade system, the enforcement arm, the true believers)
+**Television:** Babylon 5 (the Psi-Corps as institutional model for the Bureau — the total institution, the Grade system, the enforcement arm, the true believers), Twin Peaks (the missing woman who is more than she seems; the entity in a between-space; the gap between surface and what lies beneath — Vesper as Laura Palmer; the detective drawn into something cosmic), True Detective S1 (Rust/Marty dynamic as template for Reid/Gideon — two men with radically different relationships to truth; Ligottian nihilism alongside institutional faith)
 
-**Literature:** Raymond Chandler, Dashiell Hammett, H.P. Lovecraft, Thomas Ligotti, William Gibson, Paul Auster (meta-noir), Haruki Murakami, Jeff VanderMeer (*Annihilation*)
+**Literature:** Raymond Chandler, Dashiell Hammett, H.P. Lovecraft, Thomas Ligotti, William Gibson, Paul Auster (meta-noir), Haruki Murakami, Jeff VanderMeer (*Annihilation*), N.K. Jemisin (*The Broken Earth* trilogy — the orogene licensing system as direct parallel to the Grade system; power detected young, controlled, harvested), Walter Mosley (Easy Rawlins — Black detective navigating institutions not built for him; relevant for Gideon specifically), Kafka (*The Trial*, *The Castle* — the institution that cannot be understood or appealed to)
 
 ---
 
