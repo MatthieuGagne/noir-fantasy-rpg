@@ -108,6 +108,76 @@ Reid knew almost nothing about any of this when he helped her escape. He had a r
 
 ---
 
+## Clara — Black Mage
+
+**Class:** Black Mage
+
+**Bureau status:** Fugitive — jailbroken
+
+**Grade:** IV (former). No active license. The Bureau considers her an asset gone dark.
+
+**Appearance:** Polished, sharp, expensive taste that hasn't been abandoned with the license. She looks like she belongs in the Heights. She just doesn't answer to it anymore. The jailbroken sigil sits exactly where the licensed one used to — the only visible sign of what she's done, if you know what you're looking at.
+
+Academy-trained from early detection, Grade IV by graduation. The Bureau's best placement, most attentive instructors, mandatory reporting, non-Bureau employment requiring approval. She was not just trained by the institution — she was claimed by it. Its future ran through her.
+
+For years she was a good practitioner in every sense the Bureau meant. Precise, powerful, compliant. She supervised junior practitioners, filed accurate reports, attended quarterly assessments without complaint. The system worked for her. She worked for it.
+
+### The Break
+
+A junior practitioner under her supervision — Grade II, irregular output patterns — was referred by Clara through standard protocol. She thought it was a welfare referral. She did not know what the referral triggered. She didn't know what Output Calibration actually was, not in the way that mattered — she knew the procedure code, the official framing, the Bureau's language. She had not understood it as a thing that happened to a person.
+
+They were lovers. Clara filed the report anyway, because the protocol felt like care, because twelve years of Academy formation had made the correct response feel like the responsible one. She was being a good practitioner. She was being exactly what she had been made to be.
+
+By the time she understood what she'd triggered, it was done. The junior practitioner returned to work. Did their job fine. Was polite when Clara tried to speak to them. Said there was nothing to apologize for. Whatever had lived in them that *wanted* things — the excess, the friction, the reaching — was gone. Clara had known them for years. She was looking at a copy.
+
+They were transferred shortly after. Clara doesn't know where. That is its own wound.
+
+### The Jailbreak
+
+She didn't swap sigils out of ideology. She swapped because she finally understood, completely and technically, what she had handed someone she loved to. The ideology came after — rebuilt around what she couldn't undo. Her Bureau limit break is proper, sanctioned technique: precise, efficient, everything the Academy taught her to be. Her jailbroken limit break is who she actually is underneath that. She is still learning what that looks like.
+
+### Clara and Gideon
+
+Academy classmates. He knows what she did — the report, the relationship, the calibration that followed. He said nothing at the time, filed it under *the institution requires difficult tools*, and held the line. She jailbroke. He stayed. Neither knows where the other is when the game begins.
+
+When they meet in Reid's group, neither speaks first.
+
+---
+
+## Gideon — Paladin
+
+**Class:** Paladin
+
+**Bureau status:** Active — licensed Grade III enforcer
+
+**Grade:** Solid III. Field-tested. The Bureau has opinions about his career but he has never given them cause to act on them.
+
+**Appearance:** Broad, field-worn, built for enforcement rather than ceremony. Scarred in places the uniform covers. A face that has seen difficult work up close and decided the system was still worth it. He doesn't look like a poster. He looks like someone who has done the hard thing and would do it again. The Bureau dress code sits on him like a choice, not a requirement — because for him it is.
+
+Former Academy graduate, career enforcer, occasionally seconded to Assessment Division operations when numbers were needed. He came up through the system and found it gave him something real: structure, purpose, a framework for justice in a city that otherwise has none. The Bureau worked for him at the level he was given access to. He is not wrong that it did.
+
+### What He Knows and Accepts
+
+Gideon has been present for Bureau operations that were not clean. He knows what Output Calibration is and has watched it administered. He has not made peace with it — he has built a framework around it: *the institution requires difficult tools, the alternative is worse, someone has to hold the line.* The framework is load-bearing. He has not examined what holding the line actually costs, because the examination would require dismantling everything he has organized his life around.
+
+He is not corrupt. He is not cruel. He is loyal to something that was always a machine, and his loyalty is genuine, and that is the most heartbreaking thing about him.
+
+### Clara and Gideon
+
+They were Academy classmates. He knew about her relationship with the junior practitioner she referred. He watched her break after the calibration. He said nothing because the institution requires difficult tools. When she jailbroke, she didn't say goodbye — and he didn't try to find her, because finding her would have meant deciding what to do about her, and he wasn't ready for that question.
+
+He doesn't know she's with Reid's group when he joins. She doesn't know he's still Bureau.
+
+Neither speaks first.
+
+### The Arc
+
+Gideon's arc is the most heartbreaking in the party because he is not wrong to believe in justice. He has simply put it in the wrong institution — and the institution has shaped him so thoroughly that dismantling one means dismantling the other. The question his arc asks: *when the thing you served reveals what it actually is, who are you without it?*
+
+His entry into the party — voluntary defection or pushed out — is TBD, contingent on the broader Act structure.
+
+---
+
 ## Party Roster
 
 Ten-character ensemble. Each character has a different relationship to the Bureau's system and to the revelation that their power was always their own.
@@ -117,17 +187,17 @@ Ten-character ensemble. Each character has a different relationship to the Burea
 | Fighter | Reid | Disgraced — stripped |
 | Thief (high PSY) | Mara | Never registered |
 | Summoner | TBD | Unlicensed — Meridian |
-| Black Mage | TBD | Licensed — *at first* |
+| Black Mage | Clara | Fugitive — jailbroken |
 | White Mage | TBD | TBD |
 | Hacker | TBD | TBD |
 | Bard | TBD | Uncategorized — Bureau has no file |
 | Martial Artist | TBD | Unmeterable — output loops inward |
 | Occultist | TBD | Classified |
-| Paladin | TBD | Bureau — true believer |
+| Paladin | Gideon | Bureau — true believer |
 
 ### Class Notes
 
-**Black Mage** — Grade III or IV. Academy-trained; career structured around their rating. Starts licensed, arc leads to jailbroken. The moment they swap Sigils is the moment they defect — not just from the system, but from the thing that told them who they were. They know what happens to Grade III and IV practitioners who step out of line. They've known someone who got calibrated. The swap is preemptive self-preservation that becomes ideology in the doing. Their Bureau limit break is proper, sanctioned technique. Their jailbroken limit break is who they actually are.
+**Black Mage (Clara)** — Grade IV. Academy-trained; the Bureau's claimed asset. Jailbroke after filing a welfare referral that triggered the calibration of someone she loved. The swap was not preemptive self-preservation — it was the only response she had to something she couldn't undo. The ideology came after, built around the guilt. Her Bureau limit break is proper, sanctioned technique. Her jailbroken limit break is who she actually is underneath it.
 
 **Bard** — psychic output expresses through performance. The Bureau never thought to meter that channel, which means no Grade on file — the ley terminals register something but the assessment protocol doesn't know what to do with it. Anti-establishment by structural accident as much as intent. Abilities affect the whole battlefield simultaneously — ally buffs and enemy debuffs at once.
 
@@ -135,7 +205,7 @@ Ten-character ensemble. Each character has a different relationship to the Burea
 
 **Occultist** — entity-touched. Learns abilities from entity and entity-adjacent attacks only. Starts with almost nothing. Becomes the most terrifying fighter in the party by Act 3. Every ability is something that was done to them first. Bureau status: classified. There's a file. What's in it: an Output Calibration that didn't take the way it was supposed to. The Bureau's documentation has no category for what happened instead. They'd rather not discuss any of it.
 
-**Paladin** — Grade II or solid III. Fighter/healer hybrid. Academy-trained; the institution worked for them at the level they were given access to. Not corrupt — loyal to something that was always a machine. Believes in the Grade system the way people believe in things they've organized their entire identity around. The most heartbreaking arc because they're not wrong to believe in justice. They just put it in the wrong institution.
+**Paladin (Gideon)** — Grade III. Fighter/healer hybrid. Field enforcer, occasionally Assessment Division. Academy-trained; the institution worked for him at the level he was given access to. Not corrupt — loyal to something that was always a machine. Has witnessed calibrations and rationalized them. Clara's Academy classmate; knew what her report triggered and said nothing. The most heartbreaking arc because he is not wrong to believe in justice. He just put it in the wrong institution.
 
 **Summoner** — unique mechanic: shares turns with their being. Every turn can be split between Summoner and being. The being acts on borrowed output. Unlicensed — operating through the Meridian.
 
