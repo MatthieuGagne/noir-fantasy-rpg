@@ -224,6 +224,36 @@ His entry into the party — voluntary defection or pushed out — is TBD, conti
 
 ---
 
+## Soraya — Hacker
+
+**Class:** Hacker
+
+**Bureau status:** No file — always outside the system. Erases her own Grid activity logs. The Bureau knows someone goes deep. They don't know it's her.
+
+### Appearance
+Iranian/Persian, mid-to-late 50s, warm olive skin. Electric blue hair, long and loose — cold and digital against warm skin. Sharp precise features, lean, upright posture. Dark eyes with a faint Grid-glow in the iris, worn openly — the one tell she can't erase, made peace with it. A long white fitted tech coat, the only white clothing in the cast. Interface ports integrated at wrist and temple, glowing cold blue when she works. Dominant color: **white / cold blue accents**.
+
+### Background
+Self-taught, no Academy, no Bureau formation. Has been in the deep Grid longer than most of the party has been alive. Was there when the Grid changed — when the entity's presence became felt at depth. Went deeper rather than pulling back. Has spent decades methodically mapping the entity's information layer. Knows its shape without knowing its name. When Reid's investigation starts uncovering what's beneath NOX, she already has the map.
+
+### Bureau Erasure
+Erases Grid activity logs — the passive signatures the Bureau's ley terminal network records at depth. Every deep dive leaves a trace. She cleans them. The Bureau knows someone is going very deep. They don't know who.
+
+### Mechanic
+Hacks enemy cyberware and sigils to malfunction and backfire. Hacked enemies attack their own allies. Misfired sigils damage their casters. Almost no direct damage — the most indirect fighter in the party. Distinct from Kos: she redirects the enemy's systems outward. Kos absorbs what's done to him inward.
+
+### Psychology
+Core wound, coping, won't examine: TBD. Wonders if decades of deep Grid exposure changed her — doesn't examine it.
+
+### Key Relationships
+- **Kos**: both have the deepest entity relationships in the party — she through the Grid's information layer, he through his body. Whether she recognizes his entity signature immediately is TBD.
+- **Reid**: she has the map of what his investigation is uncovering. How she deploys that knowledge is TBD.
+
+### Investigation Entry
+TBD.
+
+---
+
 ## Āio — Martial Artist
 
 **Class:** Martial Artist
@@ -348,10 +378,10 @@ Ten-character ensemble. Each character has a different relationship to the Burea
 |-------|-----------|---------------|
 | Fighter | Reid | Disgraced — stripped |
 | Thief (high PSY) | Iris | Never registered |
-| Summoner | TBD | Unlicensed — Meridian |
+| Summoner | Vesper | Unlicensed — joins later |
 | Black Mage | Margot | Fugitive — jailbroken |
 | White Mage | Doc Karim | Unlicensed — tolerated |
-| Hacker | TBD | TBD |
+| Hacker | Soraya | No file — self-erased |
 | Bard | Paz | Uncategorized — Bureau has no file |
 | Martial Artist | Āio | Unmeterable — output loops inward |
 | Occultist | Kos | Classified — escaped |
@@ -369,6 +399,6 @@ Ten-character ensemble. Each character has a different relationship to the Burea
 
 **Paladin (Gideon)** — Grade III. Fighter/healer hybrid. Field enforcer, occasionally Assessment Division. Academy-trained; the institution worked for him at the level he was given access to. Not corrupt — loyal to something that was always a machine. Has witnessed calibrations and rationalized them. Margot's Academy classmate; knew what her report triggered and said nothing. The most heartbreaking arc because he is not wrong to believe in justice. He just put it in the wrong institution.
 
-**Summoner** — unique mechanic: shares turns with their being. Every turn can be split between Summoner and being. The being acts on borrowed output. Unlicensed — operating through the Meridian.
+**Summoner (Vesper)** — joins the party later. Unique mechanic: shares turns with her being. Every turn can be split between Vesper and the being. The being acts on borrowed output. The being is still there underneath the entity's presence — still trying to reach her, still the thread Reid can pull. See Vesper's full entry above.
 
-**Hacker** — manipulates the battlefield through the Grid. Haste, slow, debuffs, interference. At home in the deep Grid where it starts behaving like the entity.
+**Hacker (Soraya)** — hacks enemy cyberware and sigils to malfunction and backfire. Enemies attack their own allies, misfired sigils damage their casters. Almost no direct damage — the most indirect fighter in the party. Has mapped the entity's information layer in the deep Grid over decades. Knows its shape without knowing its name. Bureau has no file on her; she erases her own Grid activity logs.
