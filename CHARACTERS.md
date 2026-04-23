@@ -224,6 +224,70 @@ His entry into the party — voluntary defection or pushed out — is TBD, conti
 
 ---
 
+## Āio — Martial Artist
+
+**Class:** Martial Artist
+
+**Bureau status:** Unmeterable — output loops inward. Filed as non-practitioner, forgotten.
+
+**Pronouns:** They/them
+
+### Appearance
+Māori / Pacific Islander, deep warm brown skin. Tall, visibly and powerfully muscular — the body of a fighter built through decades of practice, not Bureau training. Tā moko on chin and lower lip, worn openly. Natural black hair, long, worn in a warrior topknot. Dark calm eyes that read as assessment rather than passivity. Loose dark sleeveless outer layers, bare arms — no cyberware, no implants. The absence of modification is the statement. Dominant color: **deep earth brown / bone white accents**.
+
+### Background
+From Māori / Pacific Islander island communities the Bureau never fully absorbed — the ley terminal network doesn't reach water well. The fighting tradition predates the Bureau's entire framework. No sigils, no cyberware — not as a political position but because the tradition simply doesn't include external tools. The Bureau is irrelevant to what they practice.
+
+The Bureau came to their community and ran an administrative sweep — forms, assessments, ley terminal installation, economic pressure. Made the community unlivable without integration. Āio watched it happen, couldn't stop it. Ended up in the Sprawl. Built the dojo. Grief made functional.
+
+### Core Wound
+The slow administrative destruction of their community. The Bureau didn't hate it. It processed it.
+
+### The Tradition and the Entity
+Āio's tradition is completely orthogonal to the entity's machine — predates the Bureau, predates WARDEN, predates the ley architecture. Never contaminated by the system the entity built. The one party member operating from a framework the entity has no model for. Potentially the most dangerous outside perspective in the party by Act 3.
+
+### Psychology
+Coping, won't examine, full psychology: TBD — deliberately open for story design.
+
+### Investigation Entry
+TBD. Strong candidate: Bureau comes to the dojo for someone sheltering there. Āio stands in the way.
+
+---
+
+## Kos — Occultist
+
+**Class:** Occultist
+
+**Bureau status:** Classified — escaped. There is a file. What's in it: an Output Calibration that didn't take the way it was supposed to. The Bureau has no category for what happened instead.
+
+**Full name:** Koschei — Kos.
+
+### Appearance
+Russian / Northern Slavic, severely pale — cold, almost bloodless, ice in it rather than fragility. Strong bone structure: sharp jaw, prominent brow. The hollowed look sits on substantial features, which makes the drain more visible. Deep violet/indigo hair, medium length, worn loose — the only vivid thing about him. Permanent dark circles. Eyes that track things nobody else can see. Lean, almost too lean. Long dark coat, high collar, long sleeves. Calibration scar at his collarbone where the sigil bonded wrong. Dominant color: **cold black / deep grey**.
+
+### Background
+Bureau identified him as a high-output practitioner and attempted Output Calibration. During the bonding process the entity interfered — used the procedure as a channel. Instead of routing his output outward, something came back the other way. Kos survived. What came through is still there.
+
+He escaped Bureau custody. He hides in the Meridian — where wrong geometry is visible to the naked eye, where the Bureau's instruments work least reliably. For someone carrying what Kos carries, it is the only place in the city where something inside him is quiet.
+
+### What He Doesn't Know
+He doesn't know what came through during the calibration. He doesn't know the entity is inside him. He just knows something is wrong and the Meridian is the only place it's quiet. The investigation will force the question open.
+
+### Mechanic
+Learns abilities only from entity and entity-adjacent attacks — every power is something done to him first. Starts with almost nothing. Nobody understands the pattern at first, including Kos. He survives things he shouldn't. He develops abilities with no explanation. The party notices before he does. By the time he understands what he's becoming, the transformation is already underway. The most terrifying fighter in the party by Act 3.
+
+### Psychology
+Core wound, coping, won't examine: TBD — deliberately open for story design.
+
+### Key Relationships
+- **Vesper**: both entity-touched. They sense each other — wrongness recognizing wrongness. Whatever is using Vesper notices what came through during Kos's calibration. The party's first real confirmation that Kos is more than a Bureau escapee.
+- **Paz**: Paz noticed Kos living in the Meridian's deeper wrong geometry — somewhere she wouldn't go even growing up there. She filed it and left it alone. When he surfaces in Reid's group, she recognizes him before he recognizes her.
+
+### Investigation Entry
+TBD.
+
+---
+
 ## Paz — Bard
 
 **Class:** Bard
@@ -289,8 +353,8 @@ Ten-character ensemble. Each character has a different relationship to the Burea
 | White Mage | Doc Karim | Unlicensed — tolerated |
 | Hacker | TBD | TBD |
 | Bard | Paz | Uncategorized — Bureau has no file |
-| Martial Artist | TBD | Unmeterable — output loops inward |
-| Occultist | TBD | Classified |
+| Martial Artist | Āio | Unmeterable — output loops inward |
+| Occultist | Kos | Classified — escaped |
 | Paladin | Gideon | Bureau — true believer |
 
 ### Class Notes
@@ -299,9 +363,9 @@ Ten-character ensemble. Each character has a different relationship to the Burea
 
 **Bard (Paz)** — psychic output expresses through performance — specifically a heavily modified electric guitar. The Bureau never thought to meter that channel, which means no Grade on file — the ley terminals register something but the assessment protocol doesn't know what to do with it. Anti-establishment against the whole system (Bureau, megacorps, WARDEN) by structural experience as much as intent. Abilities affect the whole battlefield simultaneously — ally buffs and enemy debuffs at once.
 
-**Martial Artist** — no Sigils, no cyberware, on principle. Output loops inward as physical enhancement. The Bureau's assessment protocol requires outward resonance to function — their reading comes back zero, filed as "non-practitioner," forgotten. They counted on this. Nothing to scan, nothing to meter, no Grade on file.
+**Martial Artist (Āio)** — no sigils, no cyberware — the tradition predates the Bureau's entire framework, the refusal isn't reactive. Output loops inward as physical enhancement. Bureau assessment protocol requires outward resonance; reading returns zero, filed as non-practitioner, forgotten. Tradition is completely orthogonal to the entity — never contaminated by its machine. The one party member operating from a framework the entity has no model for.
 
-**Occultist** — entity-touched. Learns abilities from entity and entity-adjacent attacks only. Starts with almost nothing. Becomes the most terrifying fighter in the party by Act 3. Every ability is something that was done to them first. Bureau status: classified. There's a file. What's in it: an Output Calibration that didn't take the way it was supposed to. The Bureau's documentation has no category for what happened instead. They'd rather not discuss any of it.
+**Occultist (Kos / Koschei)** — entity-touched via a failed Output Calibration. The entity used the bonding process as a channel — something came through the other way. Learns abilities from entity and entity-adjacent attacks only; every power is something done to him first. Starts with almost nothing. Nobody understands the pattern at first, including Kos. Most terrifying fighter in the party by Act 3. Bureau status: classified, escaped. Hiding in the Meridian.
 
 **Paladin (Gideon)** — Grade III. Fighter/healer hybrid. Field enforcer, occasionally Assessment Division. Academy-trained; the institution worked for him at the level he was given access to. Not corrupt — loyal to something that was always a machine. Has witnessed calibrations and rationalized them. Margot's Academy classmate; knew what her report triggered and said nothing. The most heartbreaking arc because he is not wrong to believe in justice. He just put it in the wrong institution.
 
