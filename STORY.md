@@ -110,3 +110,19 @@ Both threads converge. Margot arrives at the Four Winds before Reid can find her
 The three data sets together — Vesper's logs, Margot's records, Karim's files — all independently point to the same anomalous output signature in a pocket of the Meridian. The party enters the Meridian for the first time. Inside: a young unregistered practitioner whose output has been warping the wrong geometry for months, sheltered by Iris — the fixer from the opening and Case 1. Iris has been managing the escalation alone. The party's arrival tips the balance. They fight together. Iris joins. Her contribution: the anomaly has a direction — pulling toward something deeper in the Meridian that she's been watching for six months without following.
 
 After Case 2, the party is Reid + Karim + Margot + Iris. The next thread is what the anomaly is being pulled toward.
+
+---
+
+## The Hub — Iris's Apartment
+
+After Case 2, Iris invites the party to her apartment. One line. Flat, practical: *"You can use my place."*
+
+A residential floor in a dense Sprawl block — invisible to Bureau instruments, unregistered, built out from the inside over years. Domestic surface; off-grid infrastructure behind a false door. The kid is already there when the party arrives. The invitation and the kid's location are the same act of trust — the second thing Iris trusts Reid with, collapsed into one.
+
+This is the first time the game has a home base. Nothing before it serves that function.
+
+**Character positions:** Iris in the workshop (door usually open now). Karim in his corner. Margot at the kitchen table — the document case opens and doesn't close again. Reid has no fixed spot. The kid has the only bedroom with a door.
+
+**Services:** Rest/Save and Party Management confirmed. Everything else TBD.
+
+**Design intention:** The hub is Iris's trust made physical. The guest-becoming-home arc tracks across Act 1 — Reid starts as a visitor. At least one Iris scene can only happen here.

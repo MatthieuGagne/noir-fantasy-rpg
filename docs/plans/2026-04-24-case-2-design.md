@@ -172,11 +172,31 @@ The key: the anomaly has a *direction*. Not just worsening — pulling toward so
 
 *"I've been watching it pull that way for six months. I didn't follow it because I didn't want to know what was at the end. You're going to find out anyway."*
 
-She secures the kid at Karim's clinic — handing them to a stranger on Reid's word alone. The first thing she trusts him with.
+She takes the kid to her apartment — the address she's never given anyone. Then, to the party: *"You can use my place."* Flat. Practical. One line. The invitation and the kid's location are the same act of trust.
 
 She stays because the investigation is inside her problem and there's no separating them. She hates that. She doesn't say so. The party can tell.
 
 *[Story beat — Iris joins the party. Party is now Reid + Karim + Margot + Iris.]*
+
+---
+
+### BEAT 16 — THE APARTMENT (Iris's place, deep Sprawl — hub introduction)
+
+A residential floor in a dense Sprawl block. From the hallway it looks like one apartment among hundreds. Bureau instruments pass over it.
+
+Inside: domestic surface — main room, kitchen alcove, short corridor. The kid is already there. Iris called ahead; nobody heard the call. She moves through her own space with the economy of someone who has lived alone in it for a long time and is now making a calculation she's already made.
+
+At some point a door opens — the one that looks like a closet. Behind it: off-grid data routing, a workshop surface, a terminal that doesn't touch the Bureau's ley architecture at any registered node. She doesn't explain it. She needed something from inside.
+
+Margot finds the kitchen table. Opens the document case. That's her spot now.
+
+Karim claims a corner of the main room. He has opinions about the lighting.
+
+Reid pulls the nearest chair. Doesn't ask whose it is.
+
+The kid's room is off the corridor. Their name — street-given, not registered — is said once, naturally, when Iris introduces them. First time we hear it.
+
+*[Hub activates. Player has control — explore the space, trigger first-impression dialogue. Rest/Save and Party Management now available.]*
 
 ---
 
@@ -185,10 +205,10 @@ She stays because the investigation is inside her problem and there's no separat
 ### Iris — Grey-Market Fixer
 See `CHARACTERS.md` for full entry.
 
-Joins at Beat 15. Has been sheltering a young unregistered practitioner (the kid) in the Meridian for eighteen months — the reason she's still in NOX. The kid's anomalous output has been resonating with the between-space, worsening the wrong geometry. Iris has been managing the escalation alone. When the party's investigation converges on the same pocket, she can no longer separate her situation from theirs. Her contribution to the investigation: the anomaly has a direction — pulling toward something specific deeper in the Meridian. She's been watching it for six months without following it. Secures the kid at Karim's clinic before joining — the first thing she trusts Reid with.
+Joins at Beat 15. Has been sheltering a young unregistered practitioner (the kid) in the Meridian for eighteen months — the reason she's still in NOX. The kid's anomalous output has been resonating with the between-space, worsening the wrong geometry. Iris has been managing the escalation alone. When the party's investigation converges on the same pocket, she can no longer separate her situation from theirs. Her contribution to the investigation: the anomaly has a direction — pulling toward something specific deeper in the Meridian. She's been watching it for six months without following it. Takes the kid to her apartment — the address she's never given anyone — then invites the party. The invitation and the kid's location are the same act of trust.
 
 ### The Kid
-Young teenager, androgynous, Sprawl-born. Name TBD (street-given, not registered). A young unregistered practitioner whose output the Bureau has never metered or categorized. Their anomalous output resonates with the between-space, pulling the Meridian's wrong geometry worse each week. Wrong geometry follows them in small tells — a shadow that doesn't match, a reflection slightly out of sync. Not dangerous by intent. They don't have a frame of reference for what they are. After Beat 15 they stay at Karim's clinic — Iris's off-screen stake.
+Young teenager, androgynous, Sprawl-born. Name TBD (street-given, not registered). A young unregistered practitioner whose output the Bureau has never metered or categorized. Their anomalous output resonates with the between-space, pulling the Meridian's wrong geometry worse each week. Wrong geometry follows them in small tells — a shadow that doesn't match, a reflection slightly out of sync. Not dangerous by intent. They don't have a frame of reference for what they are. After Beat 15 they stay at Iris's apartment — Iris's off-screen stake.
 
 ### Kurtz — Gold Coat
 See `CHARACTERS.md` for full entry.
@@ -232,4 +252,10 @@ Joins at Beat 9. Brings the document case: calibration records, disappearance co
 - Whether Kurtz knows what Vesper has become: TBD
 - Margot acknowledging Karim — she visited his clinic once. Does she say so when they meet? TBD
 - The disappearance cohort's specific ley architecture mechanism: TBD
-- The kid's name: TBD
+- The kid's name: TBD (street-given, not registered; revealed at hub introduction in Beat 16)
+- Whether the hub visually evolves across Act 1: TBD
+- Gideon's entry into the hub — trust crisis TBD
+- The kid's wrong geometry tells in the hub environment: TBD
+- How Rest works narratively (mechanical vs. atmospheric): TBD
+- Party management trigger point: TBD
+- Hub services beyond Rest/Save and Party Management: TBD

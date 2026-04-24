@@ -152,6 +152,16 @@ The Heights' official commerce district. Surveilled, licensed, Bureau-compliant.
 
 ---
 
+## The Sprawl
+
+The bulk of the city. Megacorp territories carving it up — brand wars, turf disputes, the visible competition. Where people live.
+
+### Key Locations
+
+- **Iris's Apartment** — a residential floor in a dense Sprawl block. Looks like one apartment among hundreds from the hallway; Bureau instruments pass over it. One of the city's only genuinely off-grid residential spaces — Iris built the infrastructure herself over years, piece by piece. The party's hub from the end of Case 2. The kid lives here. No registry entry, no ley terminal signature. The address has never been given to anyone until Iris gave it to Reid.
+
+---
+
 ## TBD
 
 - District structure and named neighborhoods within the Sprawl
