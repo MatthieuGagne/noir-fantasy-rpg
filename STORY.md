@@ -92,3 +92,19 @@ At Karim's clinic, while treating Casimir, Karim names her — *"I've been treat
 **Crane:** *"Reid. It's Crane. Vesper's gone. I need you."*
 
 The player has heard the name twice in ten seconds — from a Sprawl healer following a medical thread, and from an encrypted call on old Bureau routing. The Vesper case begins.
+
+---
+
+## Case 2 — The Document Case (working title)
+
+See `docs/plans/2026-04-24-case-2-design.md` for full structure.
+
+Reid and Karim follow Crane's first lead: Vesper's last known address in the Heights — an apartment she maintained under a false name, left intentionally with evidence inside. The Grays have already swept it. What remains: ley terminal output logs Vesper left behind, dense technical notation a Grade IV Academy practitioner would know how to read.
+
+Simultaneously, the Grays are running a second operation — hunting a fugitive Black Mage who has been pulling classified calibration records from grey-market data channels. Karim recognizes a thread: she came to his clinic once, asking about calibrated patients. He has a name. *Margot.*
+
+Both threads converge. Margot arrives at the Four Winds before Reid can find her — the document case open on the table, Vesper's name already in her records, Reid's name attached to the night Vesper walked. They fight the Grays together. She joins.
+
+**Kurtz** is introduced in this case — unrecognized. A Gold Coat running the Gray operation, present at the Four Winds bar fight, observed from a distance. Reid sees a face. Doesn't place it yet. The recognition comes later and costs something.
+
+After Case 2, the party has three data sets — Vesper's apartment logs, Margot's disappearance cohort records, Karim's patient files — all mapping the same machine from different angles. What they point toward is TBD.

@@ -90,6 +90,16 @@ The Grays recruit from Grade III and above Academy graduates. Their culture is t
 
 Regular enforcers are sometimes seconded to Assessment Division operations when numbers are needed. That was the arrangement the night the Bureau sent a team for Vesper.
 
+### The Gold Coat
+
+Above the Grays, above Bureau blue, there is a third designation almost nobody has seen in living memory: **gold**.
+
+Gold is not a Bureau rank. It predates the Bureau. It is WARDEN's designation for its human operational assets — the color of the harvest, the color of the ley architecture's output. WARDEN's founding documents, buried in the restricted archive sub-levels of Bureau HQ, describe it: *Aurum designation. Operational authority supersedes all Bureau warrant structures. Gold coat defers to no Grey. Gold coat defers to no Blue.* No Bureau org chart lists it. No Academy curriculum mentions it. Most senior Bureau administrators have never seen one in person.
+
+When a gold coat appears, the Bureau defers — because the authority behind the designation is real and institutional memory says not to question it. The color carries weight nobody can explain and nobody questions loudly, because questioning it would require admitting they don't know what it is.
+
+What it actually means: WARDEN does not hand out designations as gifts. The gold coat is how WARDEN labels assets it has decided to use until there is nothing left to use. The wearer thinks it is a promotion. It is a receipt.
+
 ### Output Calibration
 
 The Bureau's intervention for non-compliant practitioners. Official term: **Output Calibration Procedure**. Street term: *calibrated*.

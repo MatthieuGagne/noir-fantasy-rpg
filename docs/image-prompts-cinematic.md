@@ -1,5 +1,42 @@
 # Image Prompts — Cinematic Style
 
+## Full Cast — Movie Poster
+*Reid, Iris, Margot, Gideon, Soraya, Āio, Kos, Paz, Doc Karim, Vesper, Crane — and Kurtz*
+
+> Dark cinematic digital painting. Photorealistic painterly rendering — no outlines, no cel-shading. Rich fabric and texture detail visible in clothing. Dramatic volumetric backlighting with rim light separating characters from a dark atmospheric background. Rain and mist creating depth haze. Mostly desaturated dark palette with selective neon color pops (cyan, violet, amber). Wet reflective ground. High contrast between foreground figures and background. Ensemble movie poster composition — protagonist group in the foreground, antagonist looming in the upper background. Style: dark fantasy concept art, WLOP, Guweiz, cinematic CRPG cover illustration.
+>
+> **Setting:** NOX at night — the perpetual engineered dark. The Heights skyline behind the group: Bureau HQ monolithic and brutalist, lit cold white from below, dominating the center-background. Ley architecture terminals glow blue-white along a rain-slicked boulevard. Megacorp neon bleeds amber and violet into the wet stone below. Heavy rain in thick curtains. The city is beautiful and it is wrong.
+>
+> **Upper background — KURTZ:** A British man, mid-40s, tall and lean — the Sephiroth build, physically precise. Shoulder-length brown hair. A long aquiline nose, heavy brow casting shadow over gold irises that glow with their own warmth, independent of any light source. A single clean scar cuts through his left brow. He is elevated slightly above the foreground party — the architecture of NOX behind him, Bureau HQ framing his silhouette. His full gold long coat catches all the warm light in the scene, the circuit-brocade pattern visible across the chest and collar where the light hits — ley infrastructure geometry woven into fabric, almost institutional, wrong on inspection. A single-edged blade at his hip, old metal, unregistered. He is not looking at the party. He is looking at whoever is holding the poster. Gold irises, gold coat, the city's warm harvest-light bending toward him.
+>
+> **Foreground party — left to right:**
+>
+> Far left, slightly back: **Crane** — man in his mid-60s, mixed Black and white heritage, medium-dark weathered skin. White close-cropped hair, short grey beard. Dark charcoal long coat, still pressed. Standing slightly apart from everyone, carrying something he hasn't handed over yet. Charcoal and ash palette.
+>
+> **Gideon** — man in his late 30s, deep brown skin, the widest and tallest silhouette in the foreground group. Close-cropped fade, short maintained beard. Slate-blue institutional long coat, gold Bureau badge on his chest, neural interface visible at the temple. Scar on his jaw. Stands like the uniform is a choice. Bureau blue and slate palette.
+>
+> **Margot** — woman in her early 30s, fair Northern European skin, long straight blonde hair falling loose on both sides of her face — the lightest hair in the group. Pale grey eyes. Deep burgundy high-collared structured coat; a faint cold glow at her collarbone where the jailbroken sigil sits. A worn leather document case at her side. The Academy posture is in her bones. Burgundy and wine palette.
+>
+> **Reid** — man in his mid-40s, lean, pale Irish-Scottish skin. Dark brown hair going grey at the temples, slight widow's peak. Dark grey eyes. Long dark olive coat, worn lighter at the edges, ghost of a scratched-off insignia at the breast. Plain dark shirt, no tie. Tarnished lighter in his hand. Center of the composition. Amber and tobacco brown palette.
+>
+> **Iris** — Southeast Asian woman, looks younger than she is. Short asymmetrical hair, bright vivid electric red — jaw-length one side, nearly shaved the other. Dark eyes with a striking iridescent quality in the neon light, clearly artificial, like oil on dark water. Matte deep teal catsuit, high collar, copper accent at seam piping. Flat-soled integrated boots. Nothing external that could be grabbed. Teal and copper palette.
+>
+> **Doc Karim** — South Asian man, mid-50s, stocky, warm medium-dark skin. Dark hair gone fully grey, slightly unkempt. Worn dark green utility jacket, heavily pocketed, patched, medical supplies visible on the exterior straps. A jury-rigged medical monocle over one eye — improvised cyberware with a faint diagnostic glow. Deep worn green palette.
+>
+> **Āio** — Māori / Pacific Islander, non-binary, deep warm brown skin. The build of Rhea Ripley — powerfully muscular, broad shoulders and defined arms, with feminine softness in the face and bearing. Traditional tā moko covering the cheeks, curving up toward the forehead. Natural black hair in a high warrior topknot. Dark sleeveless outer layers, bare arms — no cyberware, no implants, the absence total. The most physically imposing presence in the foreground. Earth brown and bone white palette.
+>
+> **Soraya** — Iranian/Persian woman, mid-to-late 50s, warm olive skin, sharp precise features. Electric blue hair, long and loose. Long white fitted tech coat — the only white garment in the foreground. Cold blue piping along the seams. Interface ports at wrist and temple glowing cold blue when she works. White and cold blue palette.
+>
+> **Paz** — Latina woman, warm brown skin. Long bright orange braids, loose, vivid against the dark scene. Dark expressive eyes. Battered leather jacket, dark outside, vivid red lining catching the light where it opens. A heavily modified electric guitar half-slung from her back. Burnt orange and deep red palette.
+>
+> **Kos** — Russian/Northern Slavic man, late 20s, severely pale — cold, almost bloodless. Sharp jaw, prominent brow. Deep violet/indigo hair, medium length, worn loose. Permanent dark circles. Long dark coat, high collar. A calibration scar at his collarbone. Eyes focused slightly to the left of everyone else, tracking something nobody else can see. Cold black and deep grey palette.
+>
+> Far right, slightly separated from the group: **Vesper** — medium brown skin, young. Platinum white hair, loose natural texture, moving slightly wrong — reacting to air that isn't there. Near-black coat with a deep violet undertone that only appears where neon catches it. Multiple layers that don't hang quite right. Standing at the edge of the composition, angled a degree off from the others. Her shadow on the wet stone does not match her shape. Deep violet and near-black palette.
+>
+> **Lighting:** The gold coat above pulls all the warm light — amber and harvest-gold from the upper frame, Kurtz's irises a second warm source. The foreground party is lit cold: blue-white from the ley terminals behind them, violet neon from the megacorp signs, rain-diffused. Each character's dominant color readable against the dark background. Reid's amber lighter is the only warm point in the foreground. The composition's color argument: gold above, cold below — the harvest looking down at the people it was built to consume.
+
+---
+
 ## Group 1 — The Promenade, The Heights, 3am
 *Reid, Iris, Margot, Gideon, Vesper*
 
