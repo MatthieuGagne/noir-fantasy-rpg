@@ -91,7 +91,7 @@ Mixed Black and white heritage, medium-dark weathered skin. White close-cropped 
 **Arc and breaking point:** TBD
 
 ### Appearance
-Southeast Asian heritage, warm medium skin tone — looks younger than she is. Short asymmetrical red hair, longer on one side, shorter on the other. Dark eyes with a slight iridescent quality in certain light — a subtle augmentation she doesn't mention. Deep teal close-fitted jacket, all internal pockets, dark layered underlayers. Flat boots. Nothing external that could be grabbed. No jewelry, no accessories, nothing reflective. Dominant color: **deep teal / dark grey-green**.
+Southeast Asian heritage, warm medium skin tone — looks younger than she is. Short asymmetric hair, bright red — vivid, not dark — dramatically cut: jaw-length on one side, nearly shaved on the other. Dark eyes with a striking iridescent quality in neon light — clearly artificial, beautiful, like oil on dark water or a cephalopod's eye catching color — a permanent augmentation she can't remove and has made peace with. The one tell she cannot erase. A matte deep teal catsuit, form-fitting, high collar, hood worn down at the neck — the hidden pockets visible only as faint panel seam lines along the torso. Copper accent at seam piping, collar edge, and pocket panel borders — warm metallic against cool teal. Flat-soled integrated boots, one continuous silhouette. Nothing external that could be grabbed. No jewelry, no accessories, nothing reflective. Dominant color: **deep teal / copper accent**.
 
 ### Psychology
 **Core wound:** She's run so many covers for so long she doesn't know what's underneath. The question exists. She doesn't ask it.
@@ -263,7 +263,7 @@ TBD.
 **Pronouns:** They/them
 
 ### Appearance
-Māori / Pacific Islander, deep warm brown skin. Tall, visibly and powerfully muscular — the body of a fighter built through decades of practice, not Bureau training. Tā moko on chin and lower lip, worn openly. Natural black hair, long, worn in a warrior topknot. Dark calm eyes that read as assessment rather than passivity. Loose dark sleeveless outer layers, bare arms — no cyberware, no implants. The absence of modification is the statement. Dominant color: **deep earth brown / bone white accents**.
+Māori / Pacific Islander, deep warm brown skin. Tall, powerfully muscular — the body of a fighter built through decades of practice, not Bureau training. Broad shoulders and defined arms with feminine softness in the face and bearing — androgynous, non-binary in presence as much as pronoun. Reference: Rhea Ripley's build and presence, muscular yet unmistakably feminine. Traditional tā moko covering the cheeks and curving up toward the forehead, worn openly. Natural black hair, long, worn in a warrior topknot. Dark calm eyes that read as assessment rather than passivity. Loose dark sleeveless outer layers, bare arms — no cyberware, no implants. The absence of modification is the statement. Dominant color: **deep earth brown / bone white accents**.
 
 ### Background
 From Māori / Pacific Islander island communities the Bureau never fully absorbed — the ley terminal network doesn't reach water well. The fighting tradition predates the Bureau's entire framework. No sigils, no cyberware — not as a political position but because the tradition simply doesn't include external tools. The Bureau is irrelevant to what they practice.
@@ -352,7 +352,7 @@ When Paz was young, the Bureau ran an administrative sweep through the Meridian.
 **Handle:** Doc. Everyone calls him this. Karim is his actual name — on no file anywhere.
 
 ### Appearance
-South Asian heritage (Pakistani or Bengali), warm medium-dark skin. Mid-50s, stocky build — the kind of man who looks like he's been carrying things for a long time. Dark hair going fully grey, worn loose and slightly unkempt. Dark warm eyes. A worn dark green utility jacket, heavily pocketed, patched in places. Medical supplies visible on his person. Dominant color: **deep worn green**.
+South Asian heritage (Pakistani or Bengali), warm medium-dark skin. Mid-50s, stocky build — the kind of man who looks like he's been carrying things for a long time. Dark hair going fully grey, worn loose and slightly unkempt. Dark warm eyes. A worn dark green utility jacket, heavily pocketed, patched in places, medical supplies — vials, syringes — visible on the exterior straps. A jury-rigged medical monocle over one eye: improvised cyberware with a faint diagnostic glow, built by someone who has been practicing without a license for decades. Dominant color: **deep worn green**.
 
 ### Background
 Sprawl-born, Sprawl-stayed. Unlicensed community healer for decades — megacorp workers with industrial injuries, people who can't afford Bureau-licensed care, practitioners who've been calibrated and lost more than just their output. No Academy, no license, no Grade on file. The Bureau tolerates him because the Sprawl needs healers and he stays in his lane. He's never stayed in his lane. He's just never been worth the paperwork.

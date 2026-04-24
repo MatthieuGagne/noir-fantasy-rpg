@@ -1,0 +1,125 @@
+# Image Prompts — Individual Characters
+
+*Style block used across all prompts:*
+> Dark cinematic digital painting. Photorealistic painterly rendering — no outlines, no cel-shading. Rich fabric and texture detail visible in clothing (leather grain, coat weave, layered materials). Dramatic volumetric backlighting with rim light separating the character from a dark atmospheric background. Rain and mist creating depth haze. Mostly desaturated dark palette with selective neon color pops (cyan, violet, amber). Wet reflective ground with character reflection. High contrast between foreground figure and background. Single character, three-quarter or front-facing portrait, lit like a movie poster. Style: dark fantasy concept art, WLOP, Guweiz, cinematic CRPG cover illustration.
+
+---
+
+## Reid — Fighter
+**Setting: The Heights — outside his old precinct, 3am**
+
+> Dark cinematic digital painting. Photorealistic painterly rendering — no outlines, no cel-shading. Rich fabric and texture detail visible in clothing (leather grain, coat weave, layered materials). Dramatic volumetric backlighting with rim light separating the character from a dark atmospheric background. Rain and mist creating depth haze. Mostly desaturated dark palette with selective neon color pops (cyan, violet, amber). Wet reflective ground with character reflection. High contrast between foreground figure and background. Single character, three-quarter or front-facing portrait, lit like a movie poster. Style: dark fantasy concept art, WLOP, Guweiz, cinematic CRPG cover illustration.
+>
+> A lean pale Irish-Scottish man, mid-40s — the pallor of a life lived at night in the rain. Dark brown hair, slight widow's peak, going grey at the temples. Dark grey eyes. Long dark olive coat, worn lighter at the edges, the ghost of a scratched-off government insignia still visible on the breast — the institution that stripped him is still on him, indelible. Plain dark shirt, no tie. Resoled leather boots. A tarnished lighter in his hand that he kept and shouldn't have. Amber and tobacco brown palette.
+>
+> Setting: the Heights — a prosperous, immaculate government district in a perpetually rain-soaked city, engineered never to look dirty. Behind him, a Bureau enforcement precinct building, still lit, still running — his replacement at his old desk. He has walked past this door twice since his disgrace. He hasn't gone in. Ley architecture terminals glow blue-white along the street like civic kiosks. Bureau compliance neon in the windows. Everything surveilled, licensed, metered. The wrongness is the cleanliness — a city with something quietly removed from it. He is standing in the rain, looking at something that used to be his. Amber underlighting, cold blue neon from the terminals behind him.
+
+---
+
+## Crane — Retired Enforcer
+**Setting: The Nocturne bar, The Heights**
+
+> Dark cinematic digital painting. Photorealistic painterly rendering — no outlines, no cel-shading. Rich fabric and texture detail visible in clothing (leather grain, coat weave, layered materials). Dramatic volumetric backlighting with rim light separating the character from a dark atmospheric background. Rain and mist creating depth haze. Mostly desaturated dark palette with selective neon color pops (cyan, violet, amber). Wet reflective ground with character reflection. High contrast between foreground figure and background. Single character, three-quarter or front-facing portrait, lit like a movie poster. Style: dark fantasy concept art, WLOP, Guweiz, cinematic CRPG cover illustration.
+>
+> A man in his mid-60s, mixed Black and white heritage, medium-dark weathered skin. White close-cropped hair — the Bureau regulation cut, thirty years after retirement, still maintained. Short grey beard. Warm brown eyes, tired in a specific way — not exhaustion, but the weight of knowing more than he has said. Dark charcoal long coat, still pressed. Warm grey-brown sweater underneath. Charcoal grey and ash palette.
+>
+> Setting: a boutique bar in the Heights called The Nocturne — black marble surfaces, filtered amber light, a bar that stays open as long as the city does. The name treats the city's engineered perpetual night as aesthetic rather than what it is. He is seated at a corner table that has seen better decades, a glass in front of him, alone. The bar is quiet behind him — a few blurred figures, bottles catching amber light, rain on the window. He looks like a man sitting with something he hasn't handed over yet. He still lives in the Heights. He still uses his registered sigil. He didn't follow a single instruction his daughter gave him before she disappeared. The drink is not his first.
+
+---
+
+## Iris — Thief
+**Setting: A Sprawl back alley, mid-job**
+
+> Dark cinematic digital painting. Photorealistic painterly rendering — no outlines, no cel-shading. Rich fabric and texture detail visible in clothing (leather grain, coat weave, layered materials). Dramatic volumetric backlighting with rim light separating the character from a dark atmospheric background. Rain and mist creating depth haze. Mostly desaturated dark palette with selective neon color pops (cyan, violet, amber). Wet reflective ground with character reflection. High contrast between foreground figure and background. Single character, three-quarter or front-facing portrait, lit like a movie poster. Style: dark fantasy concept art, WLOP, Guweiz, cinematic CRPG cover illustration.
+>
+> A compact Southeast Asian woman — looks younger than she is. Short asymmetric hair, bright vivid red — not dark, not burgundy, electric red — dramatically cut: jaw-length on one side, nearly shaved on the other. Dark eyes with a striking iridescent quality in neon light, clearly artificial — like oil on dark water, shifting color as the light moves, beautiful and wrong. The one thing she cannot remove or hide. A matte deep teal catsuit, form-fitting, high collar, hood worn down at the neck, hidden pockets visible only as faint panel seam lines. Copper accent at seam piping, collar edge, and pocket panel borders — warm metallic against cool teal. Flat-soled integrated boots, one continuous silhouette. Nothing external that could be grabbed. Teal and copper palette.
+>
+> Setting: a narrow service alley in the Sprawl — the bulk of the city, megacorp territory, where people actually live. A maintenance panel in the wall behind her is slid open, exposing a Bureau ley architecture terminal access point. In her hands: jailbroken sigils — psychic focus devices with the state monitoring and harvest channel surgically removed, so their output goes to the practitioner and nowhere else. She moves these to people who need to stop being metered by the government. She is about to close the panel and ghost clean. She has already clocked every exit. She was done before the client knew she was here. Megacorp brand neon reflects broken in the wet alley floor. Teal rim light from behind, cold and precise.
+
+---
+
+## Margot — Black Mage
+**Setting: The Sprawl — a street she doesn't belong on**
+
+> Dark cinematic digital painting. Photorealistic painterly rendering — no outlines, no cel-shading. Rich fabric and texture detail visible in clothing (leather grain, coat weave, layered materials). Dramatic volumetric backlighting with rim light separating the character from a dark atmospheric background. Rain and mist creating depth haze. Mostly desaturated dark palette with selective neon color pops (cyan, violet, amber). Wet reflective ground with character reflection. High contrast between foreground figure and background. Single character, three-quarter or front-facing portrait, lit like a movie poster. Style: dark fantasy concept art, WLOP, Guweiz, cinematic CRPG cover illustration.
+>
+> A tall Northern European woman, early 30s, fair skin. Long straight blonde hair falling loose on both sides of her face — the lightest hair in any crowd. Pale grey eyes. Deep burgundy high-collared structured coat, fitted. At her collarbone, a jailbroken sigil — a psychic device modified to evade state monitoring and redirect her output back to herself instead of the government harvest network. A faint cold glow where the licensed one used to be. A worn leather document case at her side. Academy posture in her bones — everything she wears reads more formal than intended. Burgundy and wine palette.
+>
+> Setting: a Sprawl street — megacorp commercial territory, industrial neon, cable overhead, wet stone underfoot. She looks like she belongs in the Heights, the prosperous licensed government district where she trained. She doesn't answer to it anymore. She is a fugitive from the institution that formed her — a former top-graded practitioner who understood, finally and completely, what the state's compliance system actually did to someone she loved, and who swapped her licensed sigil for a jailbroken one the moment she understood. She is standing in the rain on a street that wasn't built for her, completely composed, already calculating. Burgundy rim lighting, cold industrial neon from behind.
+
+---
+
+## Gideon — Paladin
+**Setting: Bureau HQ plaza, The Heights**
+
+> Dark cinematic digital painting. Photorealistic painterly rendering — no outlines, no cel-shading. Rich fabric and texture detail visible in clothing (leather grain, coat weave, layered materials). Dramatic volumetric backlighting with rim light separating the character from a dark atmospheric background. Rain and mist creating depth haze. Mostly desaturated dark palette with selective neon color pops (cyan, violet, amber). Wet reflective ground with character reflection. High contrast between foreground figure and background. Single character, three-quarter or front-facing portrait, lit like a movie poster. Style: dark fantasy concept art, WLOP, Guweiz, cinematic CRPG cover illustration.
+>
+> A massive dark-skinned man, late 30s — deep brown skin, rich dark complexion. The widest, tallest silhouette; when he enters a space, the space adjusts. Close-cropped fade, short maintained beard. Dark brown eyes, warm but with threat assessment running underneath. Bureau slate-blue long coat, field-worn but cleaned after every operation. Gold government badge on his chest. Neural interface implant at his temple, Bureau-standard cyberware, uncovered — he has nothing to hide. Scar on his jaw. Heavy polished field boots. The uniform is worn as a choice, not a requirement. Bureau blue and slate palette.
+>
+> Setting: the plaza outside Bureau HQ in the Heights — a monolithic brutalist government tower that dominates the skyline the way a cathedral dominates a medieval city. Every street in the district leads back to it. It is not the tallest building. It doesn't need to be. Lit harsh white from below. Ley architecture terminals glow blue along the plaza perimeter — civic infrastructure for a government that harvests its citizens' psychic output and calls it licensing. He is on patrol. He is not corrupt. He is not cruel. He is loyal to something that was always a machine, and his loyalty is genuine, and that is the most heartbreaking thing about him. Cold white monumental light from the building behind him, his badge catching it.
+
+---
+
+## Soraya — Hacker
+**Setting: Deep Grid dive — jacked in from a Sprawl safehouse**
+
+> Dark cinematic digital painting. Photorealistic painterly rendering — no outlines, no cel-shading. Rich fabric and texture detail visible in clothing (leather grain, coat weave, layered materials). Dramatic volumetric backlighting with rim light separating the character from a dark atmospheric background. Rain and mist creating depth haze. Mostly desaturated dark palette with selective neon color pops (cyan, violet, amber). Wet reflective ground with character reflection. High contrast between foreground figure and background. Single character, three-quarter or front-facing portrait, lit like a movie poster. Style: dark fantasy concept art, WLOP, Guweiz, cinematic CRPG cover illustration.
+>
+> An Iranian/Persian woman, mid-to-late 50s, warm olive skin. Sharp precise features, lean, upright posture — the kind of older woman whose age reads as authority. Electric blue hair, long and loose. Dark eyes with a faint Grid-glow in the iris, worn openly — a side effect of decades of deep system access she has made peace with. A long white fitted tech coat, the only white clothing in the city. Interface ports integrated at wrist and temple glow cold blue when she works. White and cold blue palette.
+>
+> Setting: split reality — her physical body is seated at a custom rig in a small dark Sprawl safehouse room, interface cables running from her wrist and temple ports into a salvaged terminal. But the image renders what she is experiencing: an impossible cold-blue data architecture surrounding her, the deep Grid visualized as vast geometric information structures with the same wrong angles as something ancient pressing through — because it is. She has spent decades mapping an entity's presence in the information layer of the city's ley network. She knows its shape without knowing its name. She went deeper when others pulled back. Cold blue light from all directions, her white coat the only warm shape in it.
+
+---
+
+## Āio — Martial Artist
+**Setting: Their dojo, the Sprawl**
+
+> Dark cinematic digital painting. Photorealistic painterly rendering — no outlines, no cel-shading. Rich fabric and texture detail visible in clothing (leather grain, coat weave, layered materials). Dramatic volumetric backlighting with rim light separating the character from a dark atmospheric background. Rain and mist creating depth haze. Mostly desaturated dark palette with selective neon color pops (cyan, violet, amber). Wet reflective ground with character reflection. High contrast between foreground figure and background. Single character, three-quarter or front-facing portrait, lit like a movie poster. Style: dark fantasy concept art, WLOP, Guweiz, cinematic CRPG cover illustration.
+>
+> A tall, powerfully muscular Māori / Pacific Islander figure — non-binary, androgynous. Broad shoulders, defined arms, but with feminine softness in the face and bearing. Build and presence inspired by Rhea Ripley — muscular yet unmistakably feminine. Traditional tā moko tattoo covering the cheeks and curving up toward the forehead, worn openly. Natural black hair in a high warrior topknot. Dark calm eyes that read as assessment rather than passivity. Loose dark sleeveless outer layers, bare arms — no cyberware, no implants anywhere on the body. The absence of modification is a statement from a tradition that predates the government's entire framework. Deep earth brown and bone white palette.
+>
+> Setting: the interior of their dojo in the Sprawl — a wide bare training floor in a repurposed industrial space. High ceilings, exposed Sprawl architecture, sparse. A single window with Sprawl neon bleeding in cold from outside. This place was built from grief: the government ran an administrative sweep through their island community — not with violence, with forms and ley terminal installations and economic pressure — and made it unlivable. Āio ended up in the Sprawl. Built this. Grief made functional. They are standing at the center of the floor, arms at their sides, completely still. Earth rim light from the window, warm industrial amber from within.
+
+---
+
+## Kos — Occultist
+**Setting: The Meridian — deep wrong geometry**
+
+> Dark cinematic digital painting. Photorealistic painterly rendering — no outlines, no cel-shading. Rich fabric and texture detail visible in clothing (leather grain, coat weave, layered materials). Dramatic volumetric backlighting with rim light separating the character from a dark atmospheric background. Rain and mist creating depth haze. Mostly desaturated dark palette with selective neon color pops (cyan, violet, amber). Wet reflective ground with character reflection. High contrast between foreground figure and background. Single character, three-quarter or front-facing portrait, lit like a movie poster. Style: dark fantasy concept art, WLOP, Guweiz, cinematic CRPG cover illustration.
+>
+> A severely pale Russian man, late 20s — cold, almost bloodless skin, ice in it rather than fragility. Strong bone structure: sharp jaw, prominent brow. The hollowed look sits on substantial features, which makes the drain more visible. Deep violet/indigo hair, medium length, worn loose — the only vivid thing about him. Permanent dark circles. Eyes that track things nobody else can see. Lean, almost too lean. Long dark coat, high collar, long sleeves. A calibration scar at his collarbone — the wound from a government psychic bonding procedure that went wrong. Something came back through the channel instead of going out. He doesn't know what. Cold black and deep grey palette.
+>
+> Setting: the Meridian — a transitional city district where the geometry is visibly, physically wrong. A staircase behind him ends flush against a ceiling. A corridor bends in a direction it shouldn't. The standing water at his feet reflects light sources that don't exist above it. This is where the membrane between the physical city and something older is thinnest. The government cordons it but can never hold it. For Kos, this is the only place in the city where what came through during the procedure is quiet. He escaped government custody and lives here. He hides here. The wrong geometry is not a problem — it is a relief. Sick violet and cold green neon from competing broken sources. His coat absorbing all light except where the wrongness leaks through.
+
+---
+
+## Paz — Bard
+**Setting: A Sprawl performance venue — mid-set**
+
+> Dark cinematic digital painting. Photorealistic painterly rendering — no outlines, no cel-shading. Rich fabric and texture detail visible in clothing (leather grain, coat weave, layered materials). Dramatic volumetric backlighting with rim light separating the character from a dark atmospheric background. Rain and mist creating depth haze. Mostly desaturated dark palette with selective neon color pops (cyan, violet, amber). Wet reflective ground with character reflection. High contrast between foreground figure and background. Single character, three-quarter or front-facing portrait, lit like a movie poster. Style: dark fantasy concept art, WLOP, Guweiz, cinematic CRPG cover illustration.
+>
+> A Latina woman, warm brown skin. Long bright orange braids, loose, moving with her. Dark expressive eyes. A battered long leather jacket — dark and Sprawl-worn on the outside, vivid red lining catching the light where it opens. Dark fitted underlayers, worn boots. A heavily modified electric guitar — the body is old, salvaged or passed down; all the modifications are hers. The instrument is not displayed, it is used. Burnt orange and deep red palette.
+>
+> Setting: a cramped Sprawl performance venue — the Sprawl is the bulk of the city, megacorp territory, carved up by brand wars and turf disputes, where people actually live. The venue is underground, repurposed, packed. She grew up in the Meridian — the wrong-geometry district the government cordons off — and has been against the whole system, Bureau and megacorps and all of it, since she was twelve years old, when the government ran an administrative sweep through her neighborhood and several people she grew up with didn't come back. No arrests, no scenes. Just forms, filed correctly. Her psychic output expresses through performance — the government's assessment instruments never knew what to do with it, returned an error, filed her as uncategorized. She has never been licensed. She is mid-set, guitar raised. A blurred crowd behind her. Burnt orange stage light from below, red neon spill from above.
+
+---
+
+## Doc Karim — White Mage
+**Setting: His makeshift clinic, the Sprawl**
+
+> Dark cinematic digital painting. Photorealistic painterly rendering — no outlines, no cel-shading. Rich fabric and texture detail visible in clothing (leather grain, coat weave, layered materials). Dramatic volumetric backlighting with rim light separating the character from a dark atmospheric background. Rain and mist creating depth haze. Mostly desaturated dark palette with selective neon color pops (cyan, violet, amber). Wet reflective ground with character reflection. High contrast between foreground figure and background. Single character, three-quarter or front-facing portrait, lit like a movie poster. Style: dark fantasy concept art, WLOP, Guweiz, cinematic CRPG cover illustration.
+>
+> A stocky South Asian man (Pakistani or Bengali heritage), mid-50s, warm medium-dark skin. The kind of man who looks like he has been carrying things for a long time. Dark hair going fully grey, worn loose and slightly unkempt. Dark warm eyes. A worn dark green utility jacket, heavily pocketed, patched in places, medical supplies — vials, syringes — visible on the exterior straps. A jury-rigged medical monocle over one eye: improvised cyberware with a faint diagnostic glow, built by someone who has been practicing without a government license for decades. Deep worn green palette.
+>
+> Setting: his makeshift clinic in the Sprawl — a repurposed storage unit or back room, rigged with salvaged medical equipment: mismatched lighting rigs, recycled pharmaceutical supplies, a cot. He is a Sprawl-born unlicensed community healer: megacorp workers with industrial injuries, people who cannot afford government-licensed care, practitioners who have been through the state's psychic calibration procedure and lost more than just their output. The government tolerates him because the Sprawl needs healers and he stays in his lane. He has never stayed in his lane. He has just never been worth the paperwork. He is standing in his clinic surrounded by the evidence of decades of work, looking directly forward. Warm green and amber light from salvaged overhead fixtures, cold blue from the monocle's diagnostic glow.
+
+---
+
+## Vesper — Summoner
+**Setting: The Meridian — deep, where the membrane is thinnest**
+
+> Dark cinematic digital painting. Photorealistic painterly rendering — no outlines, no cel-shading. Rich fabric and texture detail visible in clothing (leather grain, coat weave, layered materials). Dramatic volumetric backlighting with rim light separating the character from a dark atmospheric background. Rain and mist creating depth haze. Mostly desaturated dark palette with selective neon color pops (cyan, violet, amber). Wet reflective ground with character reflection. High contrast between foreground figure and background. Single character, three-quarter or front-facing portrait, lit like a movie poster. Style: dark fantasy concept art, WLOP, Guweiz, cinematic CRPG cover illustration.
+>
+> A young woman, medium brown skin. Platinum white hair — loose, natural texture, congenital — moving slightly wrong, reacting to air that isn't there. Eyes dark brown in most light; where the neon catches them, the color shifts in a way the lighting cannot explain. A near-black coat with a deep violet undertone that only appears in neon light. Multiple dark layers that don't hang quite right. The softest silhouette in the city — the only soft outline against hard geometry. Deep violet and near-black palette.
+>
+> Setting: the deep Meridian — the district where the geometry of the city is visibly wrong, and she is somewhere further in than anyone else goes. This is where the membrane between the physical world and something ancient is thinnest. She discovered the truth about the government's licensing system — that practitioners' power was always their own, that every registered use was a tithe, that the Bureau was a machine and they were fuel — and following that thread led her somewhere she cannot come back from. There is more than one presence in her now. Her being — the displaced entity she is bonded to — is still there underneath, still trying to reach her, still the thread someone could pull. But something else has used her as a staging ground. She is standing very still. Her shadow on the wet stone does not match her shape. The question of which presence is looking out through her eyes is the question every scene with her asks. Deep violet light with no clear source, diffuse and sourceless, as if the wrongness itself is luminous.
