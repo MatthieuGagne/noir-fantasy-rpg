@@ -47,8 +47,9 @@ Kos is not on the consumption gradient. Something came *through* him during a fa
 Calibration — not consuming him, coming the other way. The visual result:
 
 - Severely pale ("cold, almost bloodless, ice in it rather than fragility" — already in his description)
-- Eye color distinct from wrong-green (**TBD** — not consumption, not Bureau blue; something from
-  the between-space coming through)
+- Eye color: **pale silver-grey** — not wrong-green (not consumption), not Bureau blue (not
+  institution). The color of something from the between-space that came through without agenda,
+  still forming. Matches the ice quality already in his skin description.
 - Eyes that track things nobody else can see
 
 Kos does not show the greenish pallor, near-transparency, or forgetting of consumed characters.
