@@ -42,7 +42,7 @@ They can't wait.
 
 Familiar enough to navigate, wrong enough to feel wrong. The geometry is off in ways the party has seen before. Margot can read it with Academy notation — she has the formation to parse space that doesn't behave. First entity-adjacent encounters. First loot caches.
 
-*[ATB combat: lower-tier entity-adjacent phenomena. Tutorial zone for dungeon mechanics. Practical loot caches.]*
+*[ATB combat: lower-tier entity-adjacent phenomena — Shade(s). Tutorial zone for dungeon mechanics. Practical loot caches. See `enemy-design.md`.]*
 
 ---
 
@@ -52,7 +52,7 @@ Streets that don't connect as they should. Mid-tier encounters. Karim reads the 
 
 At the edge of the geometry: movement. Something that knows these spaces better than the party. Not hostile. Not communicating. Gone before the party can close.
 
-*[ATB combat: mid-tier entity-adjacent phenomena. Environmental observation. First Kos glimpse — scripted, no player pursuit option.]*
+*[ATB combat: mid-tier entity-adjacent phenomena — Shade(s), Vessel(s). Environmental observation. First Kos glimpse — scripted, no player pursuit option. See `enemy-design.md`.]*
 
 ---
 
@@ -72,7 +72,7 @@ No explanation for the warning. He disappears back into the geometry before the 
 
 Iris, in motion, one beat after he's gone — she says something to Reid. Brief. Not a speech. Something that makes clear she knows exactly what she's walking into now and chose it this time. Then she keeps moving.
 
-*[ATB combat: forced encounter with Kos — health threshold or turn count triggers Iris interruption, not a win/loss state. High-tier entity-adjacent encounters. Kos does not join.]*
+*[ATB combat: forced encounter with Kos — health threshold or turn count triggers Iris interruption, not a win/loss state. High-tier entity-adjacent encounters — Vessel(s), Bloom(s). Kos does not join. See `enemy-design.md`.]*
 
 ---
 
@@ -90,7 +90,7 @@ The wound has interactive points where the ley conduit lines can be examined up 
 
 **BOSS ENCOUNTER:** A major entity-adjacent phenomenon, drawn to the wound and feeding off it. The entity's presence is strongest here — the wound is a channel. The hardest encounter of Act 1.
 
-*[ATB combat: Reid + Karim + Margot + Iris vs. major entity-adjacent phenomenon. Encounter design TBD.]*
+*[ATB combat: Reid + Karim + Margot + Iris vs. The Wound-Feeder (entity boss). Hardest encounter of Act 1. See `enemy-design.md`.]*
 
 **THE GLIMPSE:** After the fight. The party is catching its breath.
 
@@ -150,6 +150,24 @@ His refusal to join is not hostility after the fight — it's the defensive logi
 - **Vesper in the Meridian** — she's there. She knows Reid is looking. What comes next depends on which presence is in control when they meet again.
 - **Margot's document case** — the gap in her ledger is now a physical location. The numbers close. What she does with that information is the next question.
 - **The kid's geometry** — temporarily stabilized. The cause is still active. The window is short.
+
+---
+
+## Combat Encounters
+
+| Zone | Participants | Enemies |
+|------|-------------|---------|
+| Zone 1 — Threshold | Reid + Karim + Margot + Iris | Shade(s) |
+| Zone 2 — Architecture | Reid + Karim + Margot + Iris | Shade(s), Vessel(s) |
+| Zone 3 — Deep Meridian | Reid + Karim + Margot + Iris | Vessel(s), Bloom(s); Kos (forced fight, threshold resolution) |
+| Zone 4 — The Wound | Reid + Karim + Margot + Iris | **The Wound-Feeder** (entity boss) |
+
+**Enemy design reference:** `docs/plans/2026-04-24-enemy-design.md`
+
+**Notes:**
+- Zone 3: Bloom's **Absorb** activates if a Shade or Vessel is left defeated on the field — introduces kill-order pressure not present in earlier zones
+- The Wound-Feeder: **Conduit Pulse** drains whole-party PP and self-heals — the most resource-threatening action in Act 1; Margot's document case numbers close here, mechanic and narrative beat land together
+- Phase 2 (50% HP): party DEF halved, entity-adjacent enemies healed; Phase 3 (25% HP): self-healing retreat, limited window to finish
 
 ---
 

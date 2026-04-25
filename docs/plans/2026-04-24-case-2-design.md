@@ -32,7 +32,7 @@ The Grays are still in the building. Not here for Reid — not yet — but his p
 
 The Gray team moves to intercept. Hot Zone.
 
-*[ATB combat: Reid + Karim vs. Gray team. First direct conflict with Bureau enforcement. The gold coat withdraws before Reid can close.]*
+*[ATB combat: Reid + Karim vs. Gray team — Gray Field Agent(s), Gray Assessor(s). First direct conflict with Bureau enforcement. The gold coat withdraws before Reid can close. See `enemy-design.md`.]*
 
 ---
 
@@ -60,7 +60,7 @@ Reid traces Margot's movement through Sprawl channels. Two safehouses in the las
 
 The Gray operation has widened into a sweep. Multiple encounters, escalating — the Grays operating outside their Heights jurisdiction, improvising, which makes them less predictable. During the fight: a ley terminal in this block pulses once, wrong. Karim notices.
 
-*[ATB combat: Reid + Karim vs. Gray sweep teams. Multi-encounter escalation.]*
+*[ATB combat: Reid + Karim vs. Gray sweep teams — Gray Field Agent(s), Gray Assessor(s). Multi-encounter escalation. See `enemy-design.md`.]*
 
 ---
 
@@ -88,7 +88,7 @@ Margot and Reid fight together — forced party. She fights with what the Academ
 
 The Gold Coat observes from the back of the room. Does not engage. Reid sees the face in the crowd — a scar through the left brow, catching the bar light. He files it. Doesn't place it. The gold coat is wrong, the rank is wrong, twenty years is a long time. The coat withdraws when the fight turns.
 
-*[ATB combat: Reid + Karim + Margot (guest) vs. Gray enforcement team. First look at Margot's combat style.]*
+*[ATB combat: Reid + Karim + Margot (guest) vs. Gray enforcement team — Gray Field Agent(s), Gray Assessor(s). Gold Coat Operative (Kurtz) present; observes, does not engage. First look at Margot's combat style. See `enemy-design.md`.]*
 
 ---
 
@@ -128,7 +128,7 @@ Investigation Mode works differently here. The environment doesn't read the way 
 
 First entity-adjacent enemies introduced. Not Bureau, not enforcers. Phenomena — things from between-space bleeding through where the membrane is thinnest. The encounter is jarring by design: different logic, nothing the party's Bureau experience prepared them for.
 
-*[ATB combat: Reid + Karim + Margot vs. entity-adjacent phenomena. Tutorial encounter for a new enemy category. Enemy design TBD.]*
+*[ATB combat: Reid + Karim + Margot vs. entity-adjacent phenomena — Shade(s). Tutorial encounter for entity-adjacent enemy category. See `enemy-design.md`.]*
 
 ---
 
@@ -138,7 +138,7 @@ The geometry worsens as they approach the signature. The wrong architecture is d
 
 Karim reads the walls. The entity-contact scarring he's seen in Casimir's body, in his patients — but in the building material. Architecture that's been ley-exposed long enough that the damage is structural. He has a category for what he's looking at. Having the category is worse than not having one.
 
-*[ATB combat: multi-encounter escalation. Wrong geometry as environmental hazard — rooms that have shifted, paths that require reading the wrong logic to navigate.]*
+*[ATB combat: multi-encounter escalation — Shade(s), Vessel(s). Wrong geometry as environmental hazard — rooms that have shifted, paths that require reading the wrong logic to navigate. See `enemy-design.md`.]*
 
 ---
 
@@ -158,7 +158,7 @@ The party's presence tips the balance — four people, three unmetered practitio
 
 Iris fights as a full guest party member for the first time — not the controlled chaos of the opening or the safehouse. Her element.
 
-*[ATB combat: Reid + Karim + Margot + Iris (guest) vs. major entity-adjacent phenomenon. Encounter design TBD. First full demonstration of Iris's combat class.]*
+*[ATB combat: Reid + Karim + Margot + Iris (guest) vs. The Crossing (entity boss). First full demonstration of Iris's combat class. See `enemy-design.md`.]*
 
 ---
 
@@ -241,6 +241,27 @@ Joins at Beat 9. Brings the document case: calibration records, disappearance co
 - **Vesper's apartment logs** — Margot can read them. Together with Margot's records and Karim's files they converge on the Meridian pocket — the same anomalous signature from three angles.
 - **The anomaly's direction** — Iris has been watching the geometry pull toward something deeper in the Meridian for six months. What's at the end of that direction is the next investigation thread.
 - **The face Reid files** — Kurtz, unrecognized, at the Four Winds. A gold coat, a scar through the left brow. Reid put that scar there the night Vesper walked. When the recognition comes later — the distance finally closing, the scar finally placing the face — it reframes everything in Case 2 retroactively. The man he's been fighting through Gray teams is the peer he marked twenty years ago. The gold coat is what happened to that scar in the time since.
+
+---
+
+## Combat Encounters
+
+| Beat | Participants | Enemies |
+|------|-------------|---------|
+| Beat 3 — The Sweep | Reid + Karim | Gray Field Agent(s), Gray Assessor(s) |
+| Beat 6 — The Cordon | Reid + Karim | Gray Field Agent(s), Gray Assessor(s) — multi-encounter escalation |
+| Beat 8 — The Bar Fight | Reid + Karim + Margot (guest) | Gray Field Agent(s), Gray Assessor(s); Gold Coat Operative (Kurtz) observes, does not engage |
+| Beat 11 — The Threshold | Reid + Karim + Margot | Shade(s) |
+| Beat 12 — Going Deeper | Reid + Karim + Margot | Shade(s), Vessel(s) |
+| Beat 14 — The Break | Reid + Karim + Margot + Iris (guest) | **The Crossing** (entity boss) |
+
+**Enemy design reference:** `docs/plans/2026-04-24-enemy-design.md`
+
+**Notes:**
+- Bureau escalation across three beats: Field Agents at Beat 3, Assessors added by Beat 6, Gold Coat Operative present but non-combatant at Beats 3 and 8 — Jurisdiction passive not active until he engages
+- Assessor's **Output Drain** establishes PP as a resource under threat from the first Bureau encounter; Karim's PP management becomes critical from Beat 3 onward
+- Shades (Beat 11): **Vacant Gaze** and **Hollow Touch** teach entity-adjacent enemy logic before the threat escalates — the tutorial value is in the disorientation, not the difficulty
+- The Crossing (Beat 14): Phase 2 triggers at HP threshold — SPD spike as it partially retreats into the membrane; first full entity boss
 
 ---
 

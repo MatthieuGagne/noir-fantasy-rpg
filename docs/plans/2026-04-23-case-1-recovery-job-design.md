@@ -240,6 +240,20 @@ He's in. Whatever it costs — the Bureau's tolerance, the arrangement that's ke
 
 ---
 
+## Combat Encounters
+
+| Beat | Participants | Enemies |
+|------|-------------|---------|
+| Beat 4 — The Eruption | Reid + Iris (guest) | Territory Enforcer, Block Captain |
+
+**Enemy design reference:** `docs/plans/2026-04-24-enemy-design.md` — Faction 1: Street/Sprawl
+
+**Notes:**
+- Waves escalate via Territory Enforcer's **Call Backup** mechanic — later waves arrive with the Captain already in position
+- Block Captain's **Hold the Line** and **Mark Target** make the formation the threat; neutralizing the Captain first breaks coordination
+
+---
+
 ## Next: Case 2 (TBD)
 
 After Case 1 resolves and Karim joins, Crane's call comes through: *"Reid. It's Crane. She's gone. I need you."*
