@@ -50,6 +50,6 @@ color = Color(0.08, 0.08, 0.12, 1.0)
 [node name="FlickeringLight" type="PointLight2D" parent="."]
 position = Vector2(80.0, 56.0)
 texture = SubResource("GradientTexture2D_1")
-texture_scale = 3.0
-energy = 0.8
+texture_scale = 4.0
+energy = 1.2
 script = ExtResource("4_flickering_light")
