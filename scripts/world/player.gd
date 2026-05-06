@@ -10,7 +10,6 @@ var _input_blocked: bool = false
 
 @onready var _world_layer: TileMapLayer = $"../room_poc/World"
 
-# Debug state
 var _dbg_target_offset: Vector2 = Vector2.ZERO
 var _dbg_is_wall: bool = false
 var _dbg_has_target: bool = false
