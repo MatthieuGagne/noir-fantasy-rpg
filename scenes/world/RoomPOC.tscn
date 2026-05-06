@@ -4,6 +4,7 @@
 [ext_resource type="Script" uid="uid://ca5qhatfft1dg" path="res://scripts/world/player.gd" id="2_player"]
 [ext_resource type="Texture2D" path="res://assets/sprites/characters/reid.png" id="3_sprites"]
 [ext_resource type="Script" uid="uid://b21dbg1d6q6kx" path="res://scripts/world/flickering_light.gd" id="4_flickering_light"]
+[ext_resource type="PackedScene" path="res://scenes/ui/DialogueBox.tscn" id="5_dialoguebox"]
 
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_1"]
 size = Vector2(12, 12)
@@ -47,6 +48,11 @@ position_smoothing_enabled = true
 [node name="CanvasModulate" type="CanvasModulate" parent="." unique_id=571783545]
 color = Color(0.08, 0.08, 0.12, 1)
 
+[node name="UILayer" type="CanvasLayer" parent="."]
+layer = 10
+
+[node name="DialogueBox" parent="UILayer" instance=ExtResource("5_dialoguebox")]
+
 [node name="FlickeringLight" type="PointLight2D" parent="." unique_id=120148832]
 position = Vector2(120, 88)
 color = Color(1.0, 0.88, 0.45, 1)
@@ -55,3 +61,6 @@ texture = SubResource("GradientTexture2D_1")
 texture_scale = 8.0
 height = 306.0
 script = ExtResource("4_flickering_light")
+
+[connection signal="opened" from="UILayer/DialogueBox" to="Player" method="_on_dialogue_opened"]
+[connection signal="closed" from="UILayer/DialogueBox" to="Player" method="_on_dialogue_closed"]

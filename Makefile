@@ -8,12 +8,15 @@ assets: copy-art import
 
 copy-art:
 	rsync -a --include="*/" --include="*.png" --exclude="*" art/tilesets/ assets/tilesets/
+	rsync -a --include="*/" --include="*.png" --exclude="*" art/objects/ assets/objects/
 
 import:
 	DISPLAY=:0 godot --headless --editor --quit --path .
 
 # Run once after creating a new worktree — copies gitignored build artifacts
 # from the main repo that have no automated export pipeline yet, then imports.
+# Deletes stale TMX import cache so the map reimports with the correct tileset PNG.
 worktree-init:
 	cp $(MAIN_REPO)/assets/tilesets/placeholder.png assets/tilesets/
+	rm -f .godot/imported/*.tmx-*.md5 .godot/imported/*.tmx-*.tscn
 	$(MAKE) assets

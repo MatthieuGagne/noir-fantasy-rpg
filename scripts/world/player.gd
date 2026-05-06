@@ -5,10 +5,12 @@ const TILE_SIZE: int = 16
 const MOVE_DURATION: float = 0.1
 
 var _moving: bool = false
+var _facing: Vector2i = Vector2i(0, 1)  # default: facing down
+var _input_blocked: bool = false
 
-@onready var _world_layer: TileMapLayer = $"../room_poc"
+@onready var _world_layer: TileMapLayer = $"../room_poc/World"
+@onready var _dialogue_box: DialogueBox = $"../UILayer/DialogueBox"
 
-# Debug state
 var _dbg_target_offset: Vector2 = Vector2.ZERO
 var _dbg_is_wall: bool = false
 var _dbg_has_target: bool = false
@@ -32,7 +34,7 @@ func _setup_debug_overlay() -> void:
 
 
 func _process(_delta: float) -> void:
-	if not _moving:
+	if not _moving and not _input_blocked:
 		for action: String in ["move_up", "move_down", "move_left", "move_right"]:
 			if Input.is_action_pressed(action):
 				_try_move(action)
@@ -52,10 +54,8 @@ func _process(_delta: float) -> void:
 func _draw() -> void:
 	var half: float = TILE_SIZE / 2.0
 	var tile_rect := Rect2(-half, -half, TILE_SIZE, TILE_SIZE)
-	# Current tile — green outline
 	draw_rect(tile_rect, Color(0.0, 1.0, 0.0, 0.25), true)
 	draw_rect(tile_rect, Color(0.0, 1.0, 0.0, 0.9), false)
-	# Target tile — red if wall, cyan if free
 	if _dbg_has_target:
 		var t := Rect2(_dbg_target_offset.x - half, _dbg_target_offset.y - half, TILE_SIZE, TILE_SIZE)
 		var col := Color(1.0, 0.1, 0.1, 0.35) if _dbg_is_wall else Color(0.0, 0.8, 1.0, 0.35)
@@ -64,19 +64,37 @@ func _draw() -> void:
 
 
 func _unhandled_input(event: InputEvent) -> void:
-	if _moving:
+	if event.is_action_pressed("interact") and _input_blocked:
+		_dialogue_box.skip_or_dismiss()
+		return
+	if _moving or _input_blocked:
 		return
 	for action: String in ["move_up", "move_down", "move_left", "move_right"]:
 		if event.is_action_pressed(action):
 			_try_move(action)
 			return
+	if event.is_action_pressed("interact"):
+		_try_interact()
+
+
+func _try_interact() -> void:
+	var cell: Vector2i = get_facing_cell()
+	var occupant: Node = CellRegistry.get_occupant(cell)
+	if occupant == null:
+		return
+	var text: String = occupant.get_meta("examine_text", "")
+	if text == "":
+		return
+	_dialogue_box.show_text(text)
 
 
 func _try_move(action: String) -> void:
 	var offset: Vector2i = direction_to_offset(action)
+	_facing = offset
 	var target_pos: Vector2 = position + Vector2(offset) * TILE_SIZE
+	var target_cell: Vector2i = _world_layer.local_to_map(target_pos)
 	_dbg_target_offset = Vector2(offset) * TILE_SIZE
-	_dbg_is_wall = _is_wall(target_pos)
+	_dbg_is_wall = _is_wall(target_pos) or CellRegistry.is_blocked(target_cell)
 	_dbg_has_target = true
 	if _dbg_is_wall:
 		return
@@ -94,6 +112,18 @@ func _is_wall(world_pos: Vector2) -> bool:
 	return td.get_meta("class", "") == "wall"
 
 
+func get_facing_cell() -> Vector2i:
+	return _world_layer.local_to_map(position) + _facing
+
+
+func _on_dialogue_opened() -> void:
+	_input_blocked = true
+
+
+func _on_dialogue_closed() -> void:
+	_input_blocked = false
+
+
 static func direction_to_offset(action: String) -> Vector2i:
 	match action:
 		"move_up":    return Vector2i(0, -1)
@@ -101,6 +131,10 @@ static func direction_to_offset(action: String) -> Vector2i:
 		"move_left":  return Vector2i(-1, 0)
 		"move_right": return Vector2i(1, 0)
 	return Vector2i.ZERO
+
+
+static func facing_from_action(action: String) -> Vector2i:
+	return direction_to_offset(action)
 
 
 static func snap_to_grid(pos: Vector2, tile_size: int) -> Vector2:
