@@ -9,6 +9,7 @@ var _facing: Vector2i = Vector2i(0, 1)  # default: facing down
 var _input_blocked: bool = false
 
 @onready var _world_layer: TileMapLayer = $"../room_poc/World"
+@onready var _dialogue_box: DialogueBox = $"../UILayer/DialogueBox"
 
 var _dbg_target_offset: Vector2 = Vector2.ZERO
 var _dbg_is_wall: bool = false
@@ -69,6 +70,19 @@ func _unhandled_input(event: InputEvent) -> void:
 		if event.is_action_pressed(action):
 			_try_move(action)
 			return
+	if event.is_action_pressed("interact"):
+		_try_interact()
+
+
+func _try_interact() -> void:
+	var cell: Vector2i = get_facing_cell()
+	var occupant: Node = CellRegistry.get_occupant(cell)
+	if occupant == null:
+		return
+	var text: String = occupant.get_meta("examine_text", "")
+	if text == "":
+		return
+	_dialogue_box.show_text(text)
 
 
 func _try_move(action: String) -> void:
