@@ -10,9 +10,10 @@ const TILE_SIZE: int = 16
 
 
 func _ready() -> void:
-	examine_text = get_meta("examine_text", examine_text)
-	object_name  = get_meta("object_name",  object_name)
-	sprite_frame = get_meta("sprite_frame", sprite_frame)
+	examine_text    = get_meta("examine_text",    examine_text)
+	object_name     = get_meta("object_name",     object_name)
+	sprite_frame    = get_meta("sprite_frame",    sprite_frame)
+	blocks_movement = get_meta("blocks_movement", blocks_movement)
 	CellRegistry.register(get_cell(), self)
 
 

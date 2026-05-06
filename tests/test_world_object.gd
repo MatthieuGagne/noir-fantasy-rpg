@@ -47,3 +47,8 @@ func test_unregisters_from_cell_registry_on_exit() -> void:
 	_obj.queue_free()
 	await get_tree().process_frame
 	assert_false(CellRegistry.has(Vector2i(5, 4)))
+
+
+func test_is_blocked_true_via_registry_after_ready() -> void:
+	add_child(_obj)
+	assert_true(CellRegistry.is_blocked(Vector2i(5, 4)))
