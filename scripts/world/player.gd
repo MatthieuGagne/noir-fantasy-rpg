@@ -64,6 +64,9 @@ func _draw() -> void:
 
 
 func _unhandled_input(event: InputEvent) -> void:
+	if event.is_action_pressed("interact") and _input_blocked:
+		_dialogue_box.skip_or_dismiss()
+		return
 	if _moving or _input_blocked:
 		return
 	for action: String in ["move_up", "move_down", "move_left", "move_right"]:
