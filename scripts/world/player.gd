@@ -6,7 +6,7 @@ const MOVE_DURATION: float = 0.1
 
 var _moving: bool = false
 
-@onready var _world_layer: TileMapLayer = $"../room_poc"
+@onready var _world_layer: TileMapLayer = $"../room_poc/World"
 
 # Debug state
 var _dbg_target_offset: Vector2 = Vector2.ZERO
