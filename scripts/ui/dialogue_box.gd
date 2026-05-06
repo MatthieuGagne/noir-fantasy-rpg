@@ -35,6 +35,7 @@ func skip_or_dismiss() -> void:
 		_timer.stop()
 		_char_index = _full_text.length()
 		is_typing = false
+		_update_label()
 	else:
 		visible = false
 		closed.emit()
@@ -47,6 +48,13 @@ func get_displayed_text() -> String:
 func _on_timer_timeout() -> void:
 	if _char_index < _full_text.length():
 		_char_index += 1
+		_update_label()
 		if _char_index == _full_text.length():
 			is_typing = false
 			_timer.stop()
+
+
+func _update_label() -> void:
+	var label: Label = get_node_or_null("Label")
+	if label:
+		label.text = get_displayed_text()
